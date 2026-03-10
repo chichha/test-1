@@ -15,7 +15,7 @@
     "mainFilters": [
       "Character",
       "Mission",
-      "Chakra"
+      "Mana"
     ],
     "formats": [
       {
@@ -24,7 +24,7 @@
         "customCategories": [
           "Character",
           "Mission",
-          "Chakra"
+          "Mana"
         ]
       }
     ]
@@ -60,7 +60,6 @@
         }
       ],
       "countersStartingValues": [
-        "5",
         "0"
       ],
       "hideFacedDownCards": true,
@@ -150,7 +149,14 @@
               },
               "content": [
                 {
-                  "section": "Mana"
+                  "section": "Mana",
+                  "style": {
+                    "width": "11vh"
+                  }
+                },
+                {
+                  "section": "Mana_Zone",
+                  "style": false
                 }
               ]
             }
@@ -158,11 +164,9 @@
         },
         "categoriesAlreadyOnBoard": [
           "Mission",
-          "Chakra"
+          "Mana"
         ],
-        "autoPlayFromHand": {
-          "Chakra": "Mana"
-        },
+        "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
           "Hand": {
@@ -430,22 +434,21 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           },
-          "Mana": {
-            "title": "Mana",
+          "Mana_Zone": {
+            "title": "Mana_Zone",
             "isHidden": "no",
-            "height": "12.9",
-            "alignment": "CENTER",
-            "noAutoPayTo": true,
-            "displayedTitle": "Chakra",
+            "height": "SMALL",
+            "alignment": "START",
             "opponentAlignment": false,
-            "isHorizontalAllowed": true,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "autoPayFrom": true
+            "showHiddenCardInHistory": false
           }
         }
       }
