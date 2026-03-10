@@ -1,0 +1,79 @@
+{
+  "name": "",
+  "menuBackgroundImage": "",
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": 45,
+  "cards": {
+    "dataUrl": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/CardList.json",
+    "cardBack": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/images/back.webp?raw=true"
+  },
+  "deckBuilding": {
+    "mainFilters": [],
+    "formats": []
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": "5",
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": true,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [
+        {
+          "name": "",
+          "image": "",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        }
+      ],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          ""
+        ],
+        "layout": {
+          "direction": "row",
+          "isSymetricalForOpponents": false,
+          "content": []
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Ressources",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          }
+        }
+      }
+    }
+  }
+}
