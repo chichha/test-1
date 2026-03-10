@@ -12,19 +12,17 @@
     "cardBack": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/images/back.webp"
   },
   "deckBuilding": {
-    "mainFilters": [],
+    "mainFilters": [
+      "Character",
+      "Mission"
+    ],
     "formats": [
       {
-        "name": "Standard",
-        "deckSize": 30,
-        "maxCopies": 2,
-        "info": "30 card minimum deck. Max 2 copies of the same card version. Unlimited cards with the same character name. Plus 3 Mission cards (separate)."
-      },
-      {
-        "title": "Classic",
+        "title": "Standard",
         "gameplay": "Classic",
         "customCategories": [
-          "Classic"
+          "Character",
+          "Mission"
         ]
       }
     ]
@@ -33,7 +31,7 @@
     "Classic": {
       "mulligan": {
         "info": "Draw 5 cards. You may return all cards to your deck, reshuffle, and redraw 5. You can only do this once.",
-        "startingHandSize": "5",
+        "startingHandSize": 5,
         "drawNewHand": true,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
@@ -60,35 +58,52 @@
         }
       ],
       "countersStartingValues": [
-        5,
-        0
+        "5",
+        "0"
       ],
       "hideFacedDownCards": true,
       "sections": {
         "customSections": [
-          "Mission D",
-          "Mission C",
-          "Mission B",
-          "Mission A"
+          "Mission_D",
+          "Mission_C",
+          "Mission_B",
+          "Mission_A"
         ],
         "layout": {
-          "direction": "row",
-          "isSymetricalForOpponents": false,
-          "content": []
+          "direction": "column",
+          "content": [
+            {
+              "direction": "row",
+              "content": [
+                {
+                  "section": "Mission_D"
+                },
+                {
+                  "section": "Mission_C"
+                },
+                {
+                  "section": "Mission_B"
+                },
+                {
+                  "section": "Mission_A"
+                }
+              ]
+            }
+          ]
         },
         "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "Mission D": {
-            "title": "Mission D",
+          "Mission_D": {
+            "title": "Mission_D",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "12.9",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": false,
-            "displayedTitle": "D-Rank Mission (+1pt)",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "D-Rank (+1pt)",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -96,15 +111,15 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           },
-          "Mission C": {
-            "title": "Mission C",
+          "Mission_C": {
+            "title": "Mission_C",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "12.9",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": false,
-            "displayedTitle": "C-Rank Mission (+2pt)",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "C-Rank (+2pt)",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -112,15 +127,15 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           },
-          "Mission B": {
-            "title": "Mission B",
+          "Mission_B": {
+            "title": "Mission_B",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "12.9",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": false,
-            "displayedTitle": "B-Rank Mission (+3pt)",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "B-Rank (+3pt)",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -128,15 +143,15 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           },
-          "Mission A": {
-            "title": "Mission A",
+          "Mission_A": {
+            "title": "Mission_A",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "12.9",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": false,
-            "displayedTitle": "A-Rank Mission (+4pt)",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "A-Rank (+4pt)",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
