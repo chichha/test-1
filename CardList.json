@@ -2440,7 +2440,7 @@
         "type": "Mission",
         "cost": "",
         "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2001_Call_for_support_Mission.webp",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Call for support",
@@ -2456,7 +2456,7 @@
         "type": "Mission",
         "cost": "",
         "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2002_Chunin_Exam_Mission.webp",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Chunin Exam",
@@ -2472,7 +2472,7 @@
         "type": "Mission",
         "cost": "",
         "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2003_Find_the_traitor_Mission.webp",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Find the traitor",
@@ -2488,7 +2488,7 @@
         "type": "Mission",
         "cost": "",
         "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2004_Assassination_Mission.webp",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Assassination",
@@ -2504,7 +2504,7 @@
         "type": "Mission",
         "cost": "",
         "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2005_Bring_it_back_Mission.webp",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Bring it back",
@@ -2520,7 +2520,7 @@
         "type": "Mission",
         "cost": "",
         "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2006_Rescue_a_friend_Mission.webp",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Rescue a friend",
@@ -2536,7 +2536,7 @@
         "type": "Mission",
         "cost": "",
         "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2007_I_have_to_go_Mission.webp",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "I have to go",
@@ -2552,7 +2552,7 @@
         "type": "Mission",
         "cost": "",
         "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2008_Set_a_trap_Mission.webp",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Set a trap",
@@ -2568,7 +2568,7 @@
         "type": "Mission",
         "cost": "",
         "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2009_Protect_the_Leader_Mission.webp",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Protect the Leader",
@@ -2584,7 +2584,7 @@
         "type": "Mission",
         "cost": "",
         "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2010_Chakra_Training_Mission.webp",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Chakra Training",
