@@ -3,7 +3,8 @@
   "id": "063a250f-c694-4713-9f9e-0e743a7a1d38",
   "game": "Naruto Mythos TCG",
   "format": [
-    "Standard"
+    "Standard",
+    "Classic"
   ],
   "cardCount": 33,
   "createdAt": "2026-03-10T16:18:35.631Z",
