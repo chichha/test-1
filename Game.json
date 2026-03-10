@@ -5,7 +5,7 @@
     "backgrounds": [],
     "decksUrl": ""
   },
-  "customHelp": "Naruto Mythos TCG - Konoha Shido\n\n4 Rounds. Most Mission Points wins.\n\nSTART PHASE: Reveal next Mission. Gain 5 Chakra + 1 per character in play. Draw 2 cards.\n\nACTION PHASE: Edge player goes first. Alternate turns playing 1 character (face-up paying Chakra cost, face-down for 1 Chakra, or reveal hidden paying full cost). Pass = done for round. First to pass gets/keeps Edge.\n\nMISSION EVALUATION: Compare Power per mission (D→A). Highest Power wins. Ties go to Edge holder. Need at least 1 Power to win. Winner scores printed Mission Points + rank bonus (D+1, C+2, B+3, A+4).\n\nEND PHASE: Discard leftover Chakra and Power tokens. After Round 4, most Mission Points wins.",
+  "customHelp": "Naruto Mythos TCG - Konoha Shido\n\n=== DECK BUILDING ===\nMain Deck: 30+ Character cards (max 2 copies of same version)\nMission Deck: Exactly 3 different Mission cards\n\n=== GAME SETUP ===\n1. Each player shuffles their 3 Missions face-down, randomly picks 2.\n2. The 4 selected Missions (2 per player) are shuffled into the shared Mission_Deck.\n3. Each player puts their unused Mission aside face-down.\n4. Draw 5 cards. Optional: mulligan once (return all, reshuffle, redraw 5).\n5. Randomly determine first player → gets Edge token.\n\n=== ROUND PHASES ===\nSTART: Draw top Mission from Mission_Deck → place in next empty slot (D→C→B→A). Each player gains 5 Chakra + 1 per character in play. Each player draws 2.\n\nACTION: Edge player first. Alternate playing 1 character to a mission or pass. Face-up = pay Chakra. Hidden (face-down) = pay 1. Reveal hidden = pay full cost. First to pass gets Edge.\n\nEVALUATION: Compare Power per mission (D→A). Highest wins (ties → Edge holder). Need ≥1 Power. Score = printed + rank (D+1, C+2, B+3, A+4).\n\nEND: Discard leftover Chakra & Power tokens. After Round 4 → most Mission Points wins.",
   "cardRotation": "0",
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/CardList.json",
@@ -30,7 +30,7 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "Draw 5 cards. You may return all cards to your deck, reshuffle, and redraw 5. You can only do this once.",
+        "info": "Draw 5 cards. You may return all cards to your deck, reshuffle, and redraw 5 (once only).",
         "startingHandSize": 5,
         "drawNewHand": true,
         "putSelectionAtBottom": false,
@@ -42,7 +42,7 @@
         "firstPlayerTokenName": "Edge",
         "drawPerTurn": 2
       },
-      "defaultNotes": "Round: 1/4\n\nSTART PHASE:\n1. Reveal next Mission card\n2. Each player gains 5 Chakra + 1 per character in play\n3. Each player draws 2 cards\n\nACTION PHASE:\nEdge player goes first. Alternate playing 1 character or pass.\nFace-up = pay Chakra cost. Face-down (hidden) = pay 1 Chakra.\nReveal hidden = pay full printed Chakra cost.\nFirst to pass gets/keeps Edge token.\n\nMISSION EVALUATION:\nCompare Power on each mission (D→A).\nHighest wins. Ties → Edge holder wins.\nNeed ≥1 Power to score.\nPoints = printed + rank bonus (D+1, C+2, B+3, A+4).\n\nEND PHASE:\nDiscard leftover Chakra & Power tokens.",
+      "defaultNotes": "=== SETUP CHECKLIST ===\n[ ] Each player: shuffle 3 Missions, randomly pick 2\n[ ] Combine 4 selected Missions → shuffle into Mission_Deck\n[ ] Put unused Mission aside face-down\n[ ] First player gets Edge token\n\n=== ROUND TRACKER ===\nRound: _ / 4\n\nChakra = 5 base + 1 per character in play\n\nMission scoring:\n  D-Rank: printed + 1\n  C-Rank: printed + 2\n  B-Rank: printed + 3\n  A-Rank: printed + 4\n\nPlayer 1 Mission Points: ___\nPlayer 2 Mission Points: ___",
       "tokens": [
         {
           "name": "Edge",
@@ -51,7 +51,7 @@
           "leavesAtEndOfTurn": false
         },
         {
-          "name": "Power +1",
+          "name": "Power_+1",
           "image": "",
           "isUnique": false,
           "leavesAtEndOfTurn": true
@@ -64,16 +64,28 @@
       "hideFacedDownCards": true,
       "sections": {
         "customSections": [
+          "Mission_Deck",
           "Mission_D",
           "Mission_C",
           "Mission_B",
           "Mission_A"
         ],
         "layout": {
-          "direction": "column",
+          "direction": "row",
           "content": [
             {
-              "direction": "row",
+              "direction": "column",
+              "style": {
+                "width": "11vh"
+              },
+              "content": [
+                {
+                  "section": "Mission_Deck"
+                }
+              ]
+            },
+            {
+              "direction": "column",
               "content": [
                 {
                   "section": "Mission_D"
@@ -91,10 +103,30 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": [],
-        "autoPlayFromHand": {},
+        "categoriesAlreadyOnBoard": [
+          "Mission"
+        ],
+        "autoPlayFromHand": {
+          "Mission": "Mission_Deck"
+        },
         "autoPlayFromStack": {},
         "sectionsDict": {
+          "Mission_Deck": {
+            "title": "Mission_Deck",
+            "isHidden": "yes",
+            "height": "12.9",
+            "alignment": "DECK",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Mission Deck",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
           "Mission_D": {
             "title": "Mission_D",
             "isHidden": "no",
