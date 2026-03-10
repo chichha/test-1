@@ -8,7 +8,7 @@
   "customHelp": "Naruto Mythos TCG - Konoha Shido\n\n4 Rounds. Most Mission Points wins.\n\nSTART PHASE: Reveal next Mission. Gain 5 Chakra + 1 per character in play. Draw 2 cards.\n\nACTION PHASE: Edge player goes first. Alternate turns playing 1 character (face-up paying Chakra cost, face-down for 1 Chakra, or reveal hidden paying full cost). Pass = done for round. First to pass gets/keeps Edge.\n\nMISSION EVALUATION: Compare Power per mission (D→A). Highest Power wins. Ties go to Edge holder. Need at least 1 Power to win. Winner scores printed Mission Points + rank bonus (D+1, C+2, B+3, A+4).\n\nEND PHASE: Discard leftover Chakra and Power tokens. After Round 4, most Mission Points wins.",
   "cardRotation": "0",
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/Game.json",
+    "dataUrl": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/CardList.json",
     "cardBack": "https://github.com/chichha/test-1/blob/master/images/back.webp?raw=true"
   },
   "deckBuilding": {
