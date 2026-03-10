@@ -3,7 +3,7 @@
   "menuBackgroundImage": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/images/logo.png",
   "defaultRessources": {
     "backgrounds": [],
-    "decksUrl": ""
+    "decksUrl": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/Decks.json"
   },
   "customHelp": "Naruto Mythos TCG - Konoha Shido\n\n=== DECK BUILDING ===\nMain Deck: 30+ Character cards (max 2 copies of same version)\nMission Deck: Exactly 3 different Mission cards\n\n=== GAME SETUP ===\n1. Each player: shuffle 3 Missions face-down, randomly pick 2\n2. Combine 4 selected Missions → shuffle into Mission_Deck\n3. Put unused Mission aside face-down\n4. Draw 5 cards. Optional: mulligan once (return all, reshuffle, redraw 5)\n5. Randomly determine first player → gets Edge token\n\n=== ROUND PHASES ===\nSTART: Draw top Mission → place in next Mission slot (D→C→B→A). Each player gains 5 Chakra + 1 per character in play. Each player draws 2.\n\nACTION: Edge player first. Alternate playing 1 character to a Field zone or pass. Face-up = pay Chakra. Hidden (face-down) = pay 1. Reveal hidden = pay full cost. First to pass gets Edge.\n\nEVALUATION: Compare Power per mission (D→A). Highest wins (ties → Edge holder). Need ≥1 Power. Score = printed + rank (D+1, C+2, B+3, A+4).\n\nEND: Discard leftover Chakra & Power tokens. After Round 4 → most Mission Points wins.\n\n=== ZONES ===\nMission_D/C/B/A = shared mission card display (horizontal)\nField_D/C/B/A = your characters assigned to that mission",
   "cardRotation": "0",
