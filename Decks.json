@@ -1,0 +1,94 @@
+{
+  "title": "Test",
+  "id": "063a250f-c694-4713-9f9e-0e743a7a1d38",
+  "game": "Naruto Mythos TCG",
+  "format": [
+    "Standard"
+  ],
+  "cardCount": 33,
+  "createdAt": "2026-03-10T16:18:35.631Z",
+  "lastModifiedAt": "2026-03-10T16:27:02.337Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Character",
+      "Mission"
+    ],
+    "Sideboard": [],
+    "Character": [
+      {
+        "count": 2,
+        "id": "004-130_Tsunade_UC"
+      },
+      {
+        "count": 2,
+        "id": "003-130_Tsunade_C"
+      },
+      {
+        "count": 2,
+        "id": "002-130_Hiruzen_Sarutobi_UC"
+      },
+      {
+        "count": 2,
+        "id": "001-130_Hiruzen_Sarutobi_C"
+      },
+      {
+        "count": 2,
+        "id": "007-130_Jiraiya_C"
+      },
+      {
+        "count": 2,
+        "id": "008-130_Jiraiya_UC"
+      },
+      {
+        "count": 2,
+        "id": "009-130_Naruto_Uzumaki_C"
+      },
+      {
+        "count": 2,
+        "id": "010-130_Naruto_Uzumaki_C"
+      },
+      {
+        "count": 2,
+        "id": "011-130_Sakura_Haruno_C"
+      },
+      {
+        "count": 2,
+        "id": "017-130_Choji_Akimichi_C"
+      },
+      {
+        "count": 2,
+        "id": "016-130_Kakashi_Hatake_UC"
+      },
+      {
+        "count": 2,
+        "id": "015-130_Kakashi_Hatake_C"
+      },
+      {
+        "count": 2,
+        "id": "014-130_Sasuke_Uchiha_UC"
+      },
+      {
+        "count": 2,
+        "id": "013-130_Sasuke_Uchiha_C"
+      },
+      {
+        "count": 2,
+        "id": "012-130_Sakura_Haruno_UC"
+      }
+    ],
+    "Mission": [
+      {
+        "count": 1,
+        "id": "MSS 06_Rescue_a_friend_Mission"
+      },
+      {
+        "count": 1,
+        "id": "MSS 05_Bring_it_back_Mission"
+      },
+      {
+        "count": 1,
+        "id": "MSS 04_Assassination_Mission"
+      }
+    ]
+  }
+}
