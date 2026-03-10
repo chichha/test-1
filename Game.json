@@ -5,7 +5,7 @@
     "backgrounds": [],
     "decksUrl": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/Decks.json"
   },
-  "customHelp": "Naruto Mythos TCG - Konoha Shido\n\n=== DECK BUILDING ===\nMain Deck: 30+ Character cards (max 2 copies of same version)\nMission Deck: Exactly 3 different Mission cards\n\n=== GAME SETUP ===\n1. Each player: shuffle 3 Missions face-down, randomly pick 2\n2. Combine 4 selected Missions → shuffle into Mission Deck\n3. Put unused Mission aside face-down\n4. Draw 5 cards. Optional: mulligan once (return all, reshuffle, redraw 5)\n5. Randomly determine first player → gets Edge token\n\n=== ROUND PHASES ===\nSTART: Draw top Mission → place in next Mission slot (D→C→B→A). Each player gains 5 Chakra + 1 per character in play. Each player draws 2.\n\nACTION: Edge player first. Alternate playing 1 character to a Field zone or pass. Face-up = pay Chakra. Hidden (face-down) = pay 1. Reveal hidden = pay full cost. First to pass gets Edge.\n\nEVALUATION: Compare Power per mission (D→A). Highest wins (ties → Edge holder). Need ≥1 Power. Score = printed + rank (D+1, C+2, B+3, A+4).\n\nEND: Discard leftover Chakra & Power tokens. After Round 4 → most Mission Points wins.\n\n=== ZONES ===\nMission_D/C/B/A = mission card display (Player 1 manages, shared visually)\nField_D/C/B/A = your characters assigned to that mission\nMission = Mission Deck (face-down pile)",
+  "customHelp": "Naruto Mythos TCG - Konoha Shido\n\n=== DECK BUILDING ===\nMain Deck: 30+ Character cards (max 2 copies of same version)\nMission Deck: Exactly 3 different Mission cards\n\n=== GAME SETUP ===\n1. Each player: shuffle 3 Missions face-down, randomly pick 2\n2. Combine 4 selected Missions → shuffle into Mission_Deck\n3. Put unused Mission aside face-down\n4. Draw 5 cards. Optional: mulligan once (return all, reshuffle, redraw 5)\n5. Randomly determine first player → gets Edge token\n\n=== ROUND PHASES ===\nSTART: Draw top Mission → place in next Mission slot (D→C→B→A). Each player gains 5 Chakra + 1 per character in play. Each player draws 2.\n\nACTION: Edge player first. Alternate playing 1 character to a Field zone or pass. Face-up = pay Chakra. Hidden (face-down) = pay 1. Reveal hidden = pay full cost. First to pass gets Edge.\n\nEVALUATION: Compare Power per mission (D→A). Highest wins (ties → Edge holder). Need ≥1 Power. Score = printed + rank (D+1, C+2, B+3, A+4).\n\nEND: Discard leftover Chakra & Power tokens. After Round 4 → most Mission Points wins.\n\n=== ZONES ===\nMission_D/C/B/A = shared mission card display (horizontal)\nField_D/C/B/A = your characters assigned to that mission",
   "cardRotation": "0",
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/CardList.json",
@@ -42,7 +42,7 @@
         "firstPlayerTokenName": "Edge",
         "drawPerTurn": 2
       },
-      "defaultNotes": "=== SETUP ===\n[ ] Each player: shuffle 3 Missions, pick 2\n[ ] Combine 4 Missions → Mission Deck\n[ ] First player gets Edge\n\n=== ROUND: _ / 4 ===\nChakra = 5 + 1 per character in play\n\nScoring:\n  D: printed + 1\n  C: printed + 2\n  B: printed + 3\n  A: printed + 4\n\nP1 Mission Points: ___\nP2 Mission Points: ___",
+      "defaultNotes": "=== SETUP ===\n[ ] Each player: shuffle 3 Missions, pick 2\n[ ] Combine 4 Missions → Mission_Deck\n[ ] First player gets Edge\n\n=== ROUND: _ / 4 ===\nChakra = 5 + 1 per character in play\n\nScoring:\n  D: printed + 1\n  C: printed + 2\n  B: printed + 3\n  A: printed + 4\n\nP1 Mission Points: ___\nP2 Mission Points: ___",
       "tokens": [
         {
           "name": "Edge",
@@ -75,72 +75,66 @@
           "Field_A"
         ],
         "layout": {
-          "direction": "column",
+          "direction": "row",
           "content": [
             {
-              "direction": "row",
+              "direction": "column",
+              "style": {
+                "width": "11vh"
+              },
               "content": [
                 {
-                  "direction": "column",
-                  "content": [
-                    {
-                      "section": "Mission_D"
-                    },
-                    {
-                      "section": "Field_D"
-                    }
-                  ]
+                  "section": "Mission"
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "content": [
+                {
+                  "section": "Mission_D"
                 },
                 {
-                  "direction": "column",
-                  "content": [
-                    {
-                      "section": "Mission_C"
-                    },
-                    {
-                      "section": "Field_C"
-                    }
-                  ]
-                },
-                {
-                  "direction": "column",
-                  "content": [
-                    {
-                      "section": "Mission_B"
-                    },
-                    {
-                      "section": "Field_B"
-                    }
-                  ]
-                },
-                {
-                  "direction": "column",
-                  "content": [
-                    {
-                      "section": "Mission_A"
-                    },
-                    {
-                      "section": "Field_A"
-                    }
-                  ]
+                  "section": "Field_D"
                 }
               ]
             },
             {
-              "direction": "row",
-              "style": {
-                "justify-content": "flex-start"
-              },
+              "direction": "column",
               "content": [
                 {
-                  "section": "Mission",
-                  "style": {
-                    "width": "11vh"
-                  }
+                  "section": "Mission_C"
+                },
+                {
+                  "section": "Field_C"
+                }
+              ]
+            },
+            {
+              "direction": "column",
+              "content": [
+                {
+                  "section": "Mission_B"
+                },
+                {
+                  "section": "Field_B"
+                }
+              ]
+            },
+            {
+              "direction": "column",
+              "content": [
+                {
+                  "section": "Mission_A"
+                },
+                {
+                  "section": "Field_A"
                 }
               ]
             }
-          ]
+          ],
+          "isSymetricalForOpponents": true
         },
         "categoriesAlreadyOnBoard": [
           "Mission"
@@ -269,22 +263,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Mission": {
-            "title": "Mission",
-            "isHidden": "yes",
-            "height": "12.9",
-            "alignment": "DECK",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Mission Deck",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true
-          },
           "Mission_D": {
             "title": "Mission_D",
             "isHidden": "no",
@@ -412,6 +390,22 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": false
+          },
+          "Mission": {
+            "title": "Mission",
+            "isHidden": "yes",
+            "height": "12.9",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Mission Deck",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
           }
         }
       }
