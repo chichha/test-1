@@ -1,6 +1,6 @@
 {
   "1_Naruto_Uzumaki_L": {
-    "id": "",
+    "id": "1_Naruto_Uzumaki_L",
     "isToken": false,
     "face": {
       "front": {
@@ -16,7 +16,7 @@
     "cost": "6"
   },
   "001-130_Hiruzen_Sarutobi_C": {
-    "id": "",
+    "id": "001-130_Hiruzen_Sarutobi_C",
     "isToken": false,
     "face": {
       "front": {
@@ -32,7 +32,7 @@
     "cost": "3"
   },
   "002-130_Hiruzen_Sarutobi_UC": {
-    "id": "",
+    "id": "002-130_Hiruzen_Sarutobi_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -48,7 +48,7 @@
     "cost": "5"
   },
   "003-130_Tsunade_C": {
-    "id": "",
+    "id": "003-130_Tsunade_C",
     "isToken": false,
     "face": {
       "front": {
@@ -64,7 +64,7 @@
     "cost": "3"
   },
   "004-130_Tsunade_UC": {
-    "id": "",
+    "id": "004-130_Tsunade_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -80,7 +80,7 @@
     "cost": "4"
   },
   "005-130_Shizune_C": {
-    "id": "",
+    "id": "005-130_Shizune_C",
     "isToken": false,
     "face": {
       "front": {
@@ -96,7 +96,7 @@
     "cost": "2"
   },
   "006-130_Shizune_UC": {
-    "id": "",
+    "id": "006-130_Shizune_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -112,7 +112,7 @@
     "cost": "3"
   },
   "007-130_Jiraiya_C": {
-    "id": "",
+    "id": "007-130_Jiraiya_C",
     "isToken": false,
     "face": {
       "front": {
@@ -128,7 +128,7 @@
     "cost": "4"
   },
   "008-130_Jiraiya_UC": {
-    "id": "",
+    "id": "008-130_Jiraiya_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -144,7 +144,7 @@
     "cost": "5"
   },
   "009-130_Naruto_Uzumaki_C": {
-    "id": "",
+    "id": "009-130_Naruto_Uzumaki_C",
     "isToken": false,
     "face": {
       "front": {
@@ -160,7 +160,7 @@
     "cost": "2"
   },
   "010-130_Naruto_Uzumaki_C": {
-    "id": "",
+    "id": "010-130_Naruto_Uzumaki_C",
     "isToken": false,
     "face": {
       "front": {
@@ -176,7 +176,7 @@
     "cost": "3"
   },
   "011-130_Sakura_Haruno_C": {
-    "id": "",
+    "id": "011-130_Sakura_Haruno_C",
     "isToken": false,
     "face": {
       "front": {
@@ -192,7 +192,7 @@
     "cost": "2"
   },
   "012-130_Sakura_Haruno_UC": {
-    "id": "",
+    "id": "012-130_Sakura_Haruno_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -208,7 +208,7 @@
     "cost": "3"
   },
   "013-130_Sasuke_Uchiha_C": {
-    "id": "",
+    "id": "013-130_Sasuke_Uchiha_C",
     "isToken": false,
     "face": {
       "front": {
@@ -224,7 +224,7 @@
     "cost": "2"
   },
   "014-130_Sasuke_Uchiha_UC": {
-    "id": "",
+    "id": "014-130_Sasuke_Uchiha_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -240,7 +240,7 @@
     "cost": "3"
   },
   "015-130_Kakashi_Hatake_C": {
-    "id": "",
+    "id": "015-130_Kakashi_Hatake_C",
     "isToken": false,
     "face": {
       "front": {
@@ -256,7 +256,7 @@
     "cost": "3"
   },
   "016-130_Kakashi_Hatake_UC": {
-    "id": "",
+    "id": "016-130_Kakashi_Hatake_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -272,7 +272,7 @@
     "cost": "4"
   },
   "017-130_Choji_Akimichi_C": {
-    "id": "",
+    "id": "017-130_Choji_Akimichi_C",
     "isToken": false,
     "face": {
       "front": {
@@ -288,7 +288,7 @@
     "cost": "2"
   },
   "018-130_Choji_Akimichi_UC": {
-    "id": "",
+    "id": "018-130_Choji_Akimichi_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -304,7 +304,7 @@
     "cost": "4"
   },
   "019-130_Ino_Yamanaka_C": {
-    "id": "",
+    "id": "019-130_Ino_Yamanaka_C",
     "isToken": false,
     "face": {
       "front": {
@@ -320,7 +320,7 @@
     "cost": "1"
   },
   "020-130_Ino_Yamanaka_UC": {
-    "id": "",
+    "id": "020-130_Ino_Yamanaka_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -336,7 +336,7 @@
     "cost": "3"
   },
   "021-130_Shikamaru_Nara_C": {
-    "id": "",
+    "id": "021-130_Shikamaru_Nara_C",
     "isToken": false,
     "face": {
       "front": {
@@ -352,7 +352,7 @@
     "cost": "1"
   },
   "022-130_Shikamaru_Nara_UC": {
-    "id": "",
+    "id": "022-130_Shikamaru_Nara_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -368,7 +368,7 @@
     "cost": "3"
   },
   "023-130_Asuma_Sarutobi_C": {
-    "id": "",
+    "id": "023-130_Asuma_Sarutobi_C",
     "isToken": false,
     "face": {
       "front": {
@@ -384,7 +384,7 @@
     "cost": "3"
   },
   "024-130_Asuma_Sarutobi_UC": {
-    "id": "",
+    "id": "024-130_Asuma_Sarutobi_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -400,7 +400,7 @@
     "cost": "4"
   },
   "025-130_Kiba_Inuzuka_C": {
-    "id": "",
+    "id": "025-130_Kiba_Inuzuka_C",
     "isToken": false,
     "face": {
       "front": {
@@ -416,7 +416,7 @@
     "cost": "2"
   },
   "026-130_Kiba_Inuzuka_UC": {
-    "id": "",
+    "id": "026-130_Kiba_Inuzuka_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -432,7 +432,7 @@
     "cost": "3"
   },
   "027-130_Akamaru_C": {
-    "id": "",
+    "id": "027-130_Akamaru_C",
     "isToken": false,
     "face": {
       "front": {
@@ -448,7 +448,7 @@
     "cost": "1"
   },
   "028-130_Akamaru_UC": {
-    "id": "",
+    "id": "028-130_Akamaru_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -464,7 +464,7 @@
     "cost": "2"
   },
   "029-130_Akamaru_UC": {
-    "id": "",
+    "id": "029-130_Akamaru_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -480,7 +480,7 @@
     "cost": "4"
   },
   "030-130_Hinata_Hyuga_C": {
-    "id": "",
+    "id": "030-130_Hinata_Hyuga_C",
     "isToken": false,
     "face": {
       "front": {
@@ -496,7 +496,7 @@
     "cost": "2"
   },
   "031-130_Hinata_Hyuga_UC": {
-    "id": "",
+    "id": "031-130_Hinata_Hyuga_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -512,7 +512,7 @@
     "cost": "3"
   },
   "032-130_Shino_Aburame_C": {
-    "id": "",
+    "id": "032-130_Shino_Aburame_C",
     "isToken": false,
     "face": {
       "front": {
@@ -528,7 +528,7 @@
     "cost": "2"
   },
   "034-130_Kurenai_Yuhi_C": {
-    "id": "",
+    "id": "034-130_Kurenai_Yuhi_C",
     "isToken": false,
     "face": {
       "front": {
@@ -544,7 +544,7 @@
     "cost": "3"
   },
   "035-130_Kurenai_Yuhi_UC": {
-    "id": "",
+    "id": "035-130_Kurenai_Yuhi_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -560,7 +560,7 @@
     "cost": "4"
   },
   "036-130_Neji_Hyuga_C": {
-    "id": "",
+    "id": "036-130_Neji_Hyuga_C",
     "isToken": false,
     "face": {
       "front": {
@@ -576,7 +576,7 @@
     "cost": "2"
   },
   "037-130_Neji_Hyuga_UC": {
-    "id": "",
+    "id": "037-130_Neji_Hyuga_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -592,7 +592,7 @@
     "cost": "4"
   },
   "038-130_Rock_Lee_C": {
-    "id": "",
+    "id": "038-130_Rock_Lee_C",
     "isToken": false,
     "face": {
       "front": {
@@ -608,7 +608,7 @@
     "cost": "2"
   },
   "039-130_Rock_Lee_UC": {
-    "id": "",
+    "id": "039-130_Rock_Lee_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -624,7 +624,7 @@
     "cost": "4"
   },
   "040-130_Tenten_C": {
-    "id": "",
+    "id": "040-130_Tenten_C",
     "isToken": false,
     "face": {
       "front": {
@@ -640,7 +640,7 @@
     "cost": "1"
   },
   "041-130_Tenten_UC": {
-    "id": "",
+    "id": "041-130_Tenten_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -656,7 +656,7 @@
     "cost": "3"
   },
   "042-130_Might_Guy_C": {
-    "id": "",
+    "id": "042-130_Might_Guy_C",
     "isToken": false,
     "face": {
       "front": {
@@ -672,7 +672,7 @@
     "cost": "3"
   },
   "043-130_Might_Guy_UC": {
-    "id": "",
+    "id": "043-130_Might_Guy_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -688,7 +688,7 @@
     "cost": "4"
   },
   "044-130_Anko_Mitarashi_C": {
-    "id": "",
+    "id": "044-130_Anko_Mitarashi_C",
     "isToken": false,
     "face": {
       "front": {
@@ -704,7 +704,7 @@
     "cost": "2"
   },
   "046-130_Ebisu_C": {
-    "id": "",
+    "id": "046-130_Ebisu_C",
     "isToken": false,
     "face": {
       "front": {
@@ -720,7 +720,7 @@
     "cost": "3"
   },
   "047-130_Iruka_Umino_C": {
-    "id": "",
+    "id": "047-130_Iruka_Umino_C",
     "isToken": false,
     "face": {
       "front": {
@@ -736,7 +736,7 @@
     "cost": "3"
   },
   "048-130_Hayate_Gekko_C": {
-    "id": "",
+    "id": "048-130_Hayate_Gekko_C",
     "isToken": false,
     "face": {
       "front": {
@@ -752,7 +752,7 @@
     "cost": "3"
   },
   "049-130_Genma_Shiranui_C": {
-    "id": "",
+    "id": "049-130_Genma_Shiranui_C",
     "isToken": false,
     "face": {
       "front": {
@@ -768,7 +768,7 @@
     "cost": "3"
   },
   "050-130_Orochimaru_C": {
-    "id": "",
+    "id": "050-130_Orochimaru_C",
     "isToken": false,
     "face": {
       "front": {
@@ -784,7 +784,7 @@
     "cost": "4"
   },
   "051-130_Orochimaru_UC": {
-    "id": "",
+    "id": "051-130_Orochimaru_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -800,7 +800,7 @@
     "cost": "5"
   },
   "052-130_Kabuto_Yakushi_C": {
-    "id": "",
+    "id": "052-130_Kabuto_Yakushi_C",
     "isToken": false,
     "face": {
       "front": {
@@ -816,7 +816,7 @@
     "cost": "3"
   },
   "053-130_Kabuto_Yakushi_UC": {
-    "id": "",
+    "id": "053-130_Kabuto_Yakushi_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -832,7 +832,7 @@
     "cost": "4"
   },
   "054-130_Kabuto_Yakushi_UC": {
-    "id": "",
+    "id": "054-130_Kabuto_Yakushi_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -848,7 +848,7 @@
     "cost": "5"
   },
   "055-130_Kimimaro_C": {
-    "id": "",
+    "id": "055-130_Kimimaro_C",
     "isToken": false,
     "face": {
       "front": {
@@ -864,7 +864,7 @@
     "cost": "3"
   },
   "056-130_Kimimaro_UC": {
-    "id": "",
+    "id": "056-130_Kimimaro_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -880,7 +880,7 @@
     "cost": "4"
   },
   "057-130_Jirobo_C": {
-    "id": "",
+    "id": "057-130_Jirobo_C",
     "isToken": false,
     "face": {
       "front": {
@@ -896,7 +896,7 @@
     "cost": "2"
   },
   "058-130_Jirobo_UC": {
-    "id": "",
+    "id": "058-130_Jirobo_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -912,7 +912,7 @@
     "cost": "4"
   },
   "059-130_Kidomaru_C": {
-    "id": "",
+    "id": "059-130_Kidomaru_C",
     "isToken": false,
     "face": {
       "front": {
@@ -928,7 +928,7 @@
     "cost": "3"
   },
   "060-130_Kidomaru_UC": {
-    "id": "",
+    "id": "060-130_Kidomaru_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -944,7 +944,7 @@
     "cost": "4"
   },
   "061-130_Sakon_C": {
-    "id": "",
+    "id": "061-130_Sakon_C",
     "isToken": false,
     "face": {
       "front": {
@@ -960,7 +960,7 @@
     "cost": "3"
   },
   "062-130_Sakon_UC": {
-    "id": "",
+    "id": "062-130_Sakon_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -976,7 +976,7 @@
     "cost": "4"
   },
   "063-130_Ukon_UC": {
-    "id": "",
+    "id": "063-130_Ukon_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -992,7 +992,7 @@
     "cost": "5"
   },
   "064-130_Tayuya_C": {
-    "id": "",
+    "id": "064-130_Tayuya_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1008,7 +1008,7 @@
     "cost": "2"
   },
   "065-130_Tayuya_UC": {
-    "id": "",
+    "id": "065-130_Tayuya_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -1024,7 +1024,7 @@
     "cost": "4"
   },
   "066-130_Rage_Ogres_UC": {
-    "id": "",
+    "id": "066-130_Rage_Ogres_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -1040,7 +1040,7 @@
     "cost": "4"
   },
   "067-130_Rashomon_UC": {
-    "id": "",
+    "id": "067-130_Rashomon_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -1056,7 +1056,7 @@
     "cost": "4"
   },
   "068-130_Dosu_Kinuta_C": {
-    "id": "",
+    "id": "068-130_Dosu_Kinuta_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1072,7 +1072,7 @@
     "cost": "3"
   },
   "069-130_Dosu_Kinuta_UC": {
-    "id": "",
+    "id": "069-130_Dosu_Kinuta_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -1088,7 +1088,7 @@
     "cost": "4"
   },
   "070-130_Zaku_Abumi_C": {
-    "id": "",
+    "id": "070-130_Zaku_Abumi_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1104,7 +1104,7 @@
     "cost": "2"
   },
   "071-130_Zaku_Abumi_UC": {
-    "id": "",
+    "id": "071-130_Zaku_Abumi_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -1120,7 +1120,7 @@
     "cost": "4"
   },
   "072-130_Kin_Tsuchi_C": {
-    "id": "",
+    "id": "072-130_Kin_Tsuchi_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1136,7 +1136,7 @@
     "cost": "1"
   },
   "073-130_Kin_Tsuchi_UC": {
-    "id": "",
+    "id": "073-130_Kin_Tsuchi_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -1152,7 +1152,7 @@
     "cost": "4"
   },
   "074-130_Gaara_C": {
-    "id": "",
+    "id": "074-130_Gaara_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1168,7 +1168,7 @@
     "cost": "2"
   },
   "075-130_Gaara_C": {
-    "id": "",
+    "id": "075-130_Gaara_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1184,7 +1184,7 @@
     "cost": "3"
   },
   "076-130_One-Tail_UC": {
-    "id": "",
+    "id": "076-130_One-Tail_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -1200,7 +1200,7 @@
     "cost": "6"
   },
   "077-130_Kankuro_C": {
-    "id": "",
+    "id": "077-130_Kankuro_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1216,7 +1216,7 @@
     "cost": "3"
   },
   "078-130_Kankuro_UC": {
-    "id": "",
+    "id": "078-130_Kankuro_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -1232,7 +1232,7 @@
     "cost": "4"
   },
   "079-130_Temari_C": {
-    "id": "",
+    "id": "079-130_Temari_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1248,7 +1248,7 @@
     "cost": "2"
   },
   "080-130_Temari_UC": {
-    "id": "",
+    "id": "080-130_Temari_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -1264,7 +1264,7 @@
     "cost": "4"
   },
   "081-130_Baki_C": {
-    "id": "",
+    "id": "081-130_Baki_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1280,7 +1280,7 @@
     "cost": "3"
   },
   "082-130_Baki_UC": {
-    "id": "",
+    "id": "082-130_Baki_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -1296,7 +1296,7 @@
     "cost": "4"
   },
   "083-130_Rasa_UC": {
-    "id": "",
+    "id": "083-130_Rasa_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -1312,7 +1312,7 @@
     "cost": "3"
   },
   "084-130_Yashamaru_C": {
-    "id": "",
+    "id": "084-130_Yashamaru_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1328,7 +1328,7 @@
     "cost": "1"
   },
   "085-130_Yashamaru_UC": {
-    "id": "",
+    "id": "085-130_Yashamaru_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -1344,7 +1344,7 @@
     "cost": "4"
   },
   "086-130_Zabuza_Momochi_C": {
-    "id": "",
+    "id": "086-130_Zabuza_Momochi_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1360,7 +1360,7 @@
     "cost": "3"
   },
   "087-130_Zabuza_Momochi_UC": {
-    "id": "",
+    "id": "087-130_Zabuza_Momochi_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -1376,7 +1376,7 @@
     "cost": "5"
   },
   "088-130_Haku_C": {
-    "id": "",
+    "id": "088-130_Haku_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1392,7 +1392,7 @@
     "cost": "2"
   },
   "089-130_Haku_UC": {
-    "id": "",
+    "id": "089-130_Haku_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -1408,7 +1408,7 @@
     "cost": "4"
   },
   "090-130_Itachi_Uchiha_C": {
-    "id": "",
+    "id": "090-130_Itachi_Uchiha_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1424,7 +1424,7 @@
     "cost": "3"
   },
   "091-130_Itachi_Uchiha_UC": {
-    "id": "",
+    "id": "091-130_Itachi_Uchiha_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -1440,7 +1440,7 @@
     "cost": "5"
   },
   "092-130_Kisame_Hoshigaki_C": {
-    "id": "",
+    "id": "092-130_Kisame_Hoshigaki_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1456,7 +1456,7 @@
     "cost": "3"
   },
   "093-130_Kisame_Hoshigaki_UC": {
-    "id": "",
+    "id": "093-130_Kisame_Hoshigaki_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -1472,7 +1472,7 @@
     "cost": "6"
   },
   "094-130_Gamabunta_C": {
-    "id": "",
+    "id": "094-130_Gamabunta_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1488,7 +1488,7 @@
     "cost": "3"
   },
   "095-130_Gamahiro_C": {
-    "id": "",
+    "id": "095-130_Gamahiro_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1504,7 +1504,7 @@
     "cost": "4"
   },
   "096-130_Gamakichi_C": {
-    "id": "",
+    "id": "096-130_Gamakichi_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1520,7 +1520,7 @@
     "cost": "2"
   },
   "097-130_Gamatatsu_C": {
-    "id": "",
+    "id": "097-130_Gamatatsu_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1536,7 +1536,7 @@
     "cost": "1"
   },
   "098-130_Katsuyu_C": {
-    "id": "",
+    "id": "098-130_Katsuyu_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1552,7 +1552,7 @@
     "cost": "3"
   },
   "099-130_Pakkun_C": {
-    "id": "",
+    "id": "099-130_Pakkun_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1568,7 +1568,7 @@
     "cost": "1"
   },
   "100-130_Ninja_Hound_Corps_C": {
-    "id": "",
+    "id": "100-130_Ninja_Hound_Corps_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1584,7 +1584,7 @@
     "cost": "1"
   },
   "101-130_TonTon_C": {
-    "id": "",
+    "id": "101-130_TonTon_C",
     "isToken": false,
     "face": {
       "front": {
@@ -1600,7 +1600,7 @@
     "cost": "0"
   },
   "102-130_Manda_UC": {
-    "id": "",
+    "id": "102-130_Manda_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -1616,7 +1616,7 @@
     "cost": "3"
   },
   "103-130_Giant_Spider_UC": {
-    "id": "",
+    "id": "103-130_Giant_Spider_UC",
     "isToken": false,
     "face": {
       "front": {
@@ -1632,7 +1632,7 @@
     "cost": "4"
   },
   "104-130_Tsunade_M": {
-    "id": "",
+    "id": "104-130_Tsunade_M",
     "isToken": false,
     "face": {
       "front": {
@@ -1648,7 +1648,7 @@
     "cost": "5"
   },
   "104-130_Tsunade_R": {
-    "id": "",
+    "id": "104-130_Tsunade_R",
     "isToken": false,
     "face": {
       "front": {
@@ -1664,7 +1664,7 @@
     "cost": "5"
   },
   "104-130_Tsunade_RA": {
-    "id": "",
+    "id": "104-130_Tsunade_RA",
     "isToken": false,
     "face": {
       "front": {
@@ -1680,7 +1680,7 @@
     "cost": "5"
   },
   "105-130_Jiraiya_R": {
-    "id": "",
+    "id": "105-130_Jiraiya_R",
     "isToken": false,
     "face": {
       "front": {
@@ -1696,7 +1696,7 @@
     "cost": "6"
   },
   "105-130_Jiraiya_RA": {
-    "id": "",
+    "id": "105-130_Jiraiya_RA",
     "isToken": false,
     "face": {
       "front": {
@@ -1712,7 +1712,7 @@
     "cost": "6"
   },
   "106-130_Kakashi_Hatake_R": {
-    "id": "",
+    "id": "106-130_Kakashi_Hatake_R",
     "isToken": false,
     "face": {
       "front": {
@@ -1728,7 +1728,7 @@
     "cost": "5"
   },
   "106-130_Kakashi_Hatake_RA": {
-    "id": "",
+    "id": "106-130_Kakashi_Hatake_RA",
     "isToken": false,
     "face": {
       "front": {
@@ -1744,7 +1744,7 @@
     "cost": "5"
   },
   "107-130_Sasuke_Uchiha_R": {
-    "id": "",
+    "id": "107-130_Sasuke_Uchiha_R",
     "isToken": false,
     "face": {
       "front": {
@@ -1760,7 +1760,7 @@
     "cost": "5"
   },
   "107-130_Sasuke_Uchiha_RA": {
-    "id": "",
+    "id": "107-130_Sasuke_Uchiha_RA",
     "isToken": false,
     "face": {
       "front": {
@@ -1776,7 +1776,7 @@
     "cost": "5"
   },
   "108-130_Naruto_Uzumaki_R": {
-    "id": "",
+    "id": "108-130_Naruto_Uzumaki_R",
     "isToken": false,
     "face": {
       "front": {
@@ -1792,7 +1792,7 @@
     "cost": "5"
   },
   "108-130_Naruto_Uzumaki_RA": {
-    "id": "",
+    "id": "108-130_Naruto_Uzumaki_RA",
     "isToken": false,
     "face": {
       "front": {
@@ -1808,7 +1808,7 @@
     "cost": "5"
   },
   "109-130_Sakura_Haruno_R": {
-    "id": "",
+    "id": "109-130_Sakura_Haruno_R",
     "isToken": false,
     "face": {
       "front": {
@@ -1824,7 +1824,7 @@
     "cost": "4"
   },
   "109-130_Sakura_Haruno_RA": {
-    "id": "",
+    "id": "109-130_Sakura_Haruno_RA",
     "isToken": false,
     "face": {
       "front": {
@@ -1840,7 +1840,7 @@
     "cost": "4"
   },
   "110-130_Ino_Yamanaka_R": {
-    "id": "",
+    "id": "110-130_Ino_Yamanaka_R",
     "isToken": false,
     "face": {
       "front": {
@@ -1856,7 +1856,7 @@
     "cost": "5"
   },
   "110-130_Ino_Yamanaka_RA": {
-    "id": "",
+    "id": "110-130_Ino_Yamanaka_RA",
     "isToken": false,
     "face": {
       "front": {
@@ -1872,7 +1872,7 @@
     "cost": "5"
   },
   "111-130_Shikamaru_Nara_M": {
-    "id": "",
+    "id": "111-130_Shikamaru_Nara_M",
     "isToken": false,
     "face": {
       "front": {
@@ -1888,7 +1888,7 @@
     "cost": "6"
   },
   "111-130_Shikamaru_Nara_R": {
-    "id": "",
+    "id": "111-130_Shikamaru_Nara_R",
     "isToken": false,
     "face": {
       "front": {
@@ -1904,7 +1904,7 @@
     "cost": "6"
   },
   "111-130_Shikamaru_Nara_RA": {
-    "id": "",
+    "id": "111-130_Shikamaru_Nara_RA",
     "isToken": false,
     "face": {
       "front": {
@@ -1920,7 +1920,7 @@
     "cost": "6"
   },
   "112-130_Choji_Akimichi_R": {
-    "id": "",
+    "id": "112-130_Choji_Akimichi_R",
     "isToken": false,
     "face": {
       "front": {
@@ -1936,7 +1936,7 @@
     "cost": "5"
   },
   "112-130_Choji_Akimichi_RA": {
-    "id": "",
+    "id": "112-130_Choji_Akimichi_RA",
     "isToken": false,
     "face": {
       "front": {
@@ -1952,7 +1952,7 @@
     "cost": "5"
   },
   "113-130_Kiba_Inuzuka_M": {
-    "id": "",
+    "id": "113-130_Kiba_Inuzuka_M",
     "isToken": false,
     "face": {
       "front": {
@@ -1968,7 +1968,7 @@
     "cost": "6"
   },
   "113-130_Kiba_Inuzuka_R": {
-    "id": "",
+    "id": "113-130_Kiba_Inuzuka_R",
     "isToken": false,
     "face": {
       "front": {
@@ -1984,7 +1984,7 @@
     "cost": "6"
   },
   "113-130_Kiba_Inuzuka_RA": {
-    "id": "",
+    "id": "113-130_Kiba_Inuzuka_RA",
     "isToken": false,
     "face": {
       "front": {
@@ -2000,7 +2000,7 @@
     "cost": "6"
   },
   "114-130_Hinata_Hyuga_R": {
-    "id": "",
+    "id": "114-130_Hinata_Hyuga_R",
     "isToken": false,
     "face": {
       "front": {
@@ -2016,7 +2016,7 @@
     "cost": "5"
   },
   "114-130_Hinata_Hyuga_RA": {
-    "id": "",
+    "id": "114-130_Hinata_Hyuga_RA",
     "isToken": false,
     "face": {
       "front": {
@@ -2032,7 +2032,7 @@
     "cost": "5"
   },
   "115-130_Shino_Aburame_R": {
-    "id": "",
+    "id": "115-130_Shino_Aburame_R",
     "isToken": false,
     "face": {
       "front": {
@@ -2048,7 +2048,7 @@
     "cost": "5"
   },
   "115-130_Shino_Aburame_RA": {
-    "id": "",
+    "id": "115-130_Shino_Aburame_RA",
     "isToken": false,
     "face": {
       "front": {
@@ -2064,7 +2064,7 @@
     "cost": "5"
   },
   "116-130_Neji_Hyuga_R": {
-    "id": "",
+    "id": "116-130_Neji_Hyuga_R",
     "isToken": false,
     "face": {
       "front": {
@@ -2080,7 +2080,7 @@
     "cost": "6"
   },
   "116-130_Neji_Hyuga_RA": {
-    "id": "",
+    "id": "116-130_Neji_Hyuga_RA",
     "isToken": false,
     "face": {
       "front": {
@@ -2096,7 +2096,7 @@
     "cost": "6"
   },
   "117-130_Rock_Lee_M": {
-    "id": "",
+    "id": "117-130_Rock_Lee_M",
     "isToken": false,
     "face": {
       "front": {
@@ -2112,7 +2112,7 @@
     "cost": "5"
   },
   "117-130_Rock_Lee_R": {
-    "id": "",
+    "id": "117-130_Rock_Lee_R",
     "isToken": false,
     "face": {
       "front": {
@@ -2128,7 +2128,7 @@
     "cost": "5"
   },
   "117-130_Rock_Lee_RA": {
-    "id": "",
+    "id": "117-130_Rock_Lee_RA",
     "isToken": false,
     "face": {
       "front": {
@@ -2144,7 +2144,7 @@
     "cost": "5"
   },
   "119-130_Kankuro_R": {
-    "id": "",
+    "id": "119-130_Kankuro_R",
     "isToken": false,
     "face": {
       "front": {
@@ -2160,7 +2160,7 @@
     "cost": "5"
   },
   "120-130_Gaara_R": {
-    "id": "",
+    "id": "120-130_Gaara_R",
     "isToken": false,
     "face": {
       "front": {
@@ -2176,7 +2176,7 @@
     "cost": "4"
   },
   "120-130_Gaara_RA": {
-    "id": "",
+    "id": "120-130_Gaara_RA",
     "isToken": false,
     "face": {
       "front": {
@@ -2192,7 +2192,7 @@
     "cost": "4"
   },
   "121-130_Temari_R": {
-    "id": "",
+    "id": "121-130_Temari_R",
     "isToken": false,
     "face": {
       "front": {
@@ -2208,7 +2208,7 @@
     "cost": "5"
   },
   "131-130_Tsunade_S": {
-    "id": "",
+    "id": "131-130_Tsunade_S",
     "isToken": false,
     "face": {
       "front": {
@@ -2224,7 +2224,7 @@
     "cost": "7"
   },
   "131-130_Tsunade_SV": {
-    "id": "",
+    "id": "131-130_Tsunade_SV",
     "isToken": false,
     "face": {
       "front": {
@@ -2240,7 +2240,7 @@
     "cost": "7"
   },
   "132-130_Jiraiya_S": {
-    "id": "",
+    "id": "132-130_Jiraiya_S",
     "isToken": false,
     "face": {
       "front": {
@@ -2256,7 +2256,7 @@
     "cost": "8"
   },
   "133-130_Naruto_Uzumaki_M": {
-    "id": "",
+    "id": "133-130_Naruto_Uzumaki_M",
     "isToken": false,
     "face": {
       "front": {
@@ -2272,7 +2272,7 @@
     "cost": "6"
   },
   "133-130_Naruto_Uzumaki_S": {
-    "id": "",
+    "id": "133-130_Naruto_Uzumaki_S",
     "isToken": false,
     "face": {
       "front": {
@@ -2288,7 +2288,7 @@
     "cost": "6"
   },
   "133-130_Naruto_Uzumaki_SV": {
-    "id": "",
+    "id": "133-130_Naruto_Uzumaki_SV",
     "isToken": false,
     "face": {
       "front": {
@@ -2304,7 +2304,7 @@
     "cost": "6"
   },
   "135-130_Sakura_Haruno_S": {
-    "id": "",
+    "id": "135-130_Sakura_Haruno_S",
     "isToken": false,
     "face": {
       "front": {
@@ -2320,7 +2320,7 @@
     "cost": "5"
   },
   "136-130_Sasuke_Uchiha_S": {
-    "id": "",
+    "id": "136-130_Sasuke_Uchiha_S",
     "isToken": false,
     "face": {
       "front": {
@@ -2336,7 +2336,7 @@
     "cost": "7"
   },
   "136-130_Sasuke_Uchiha_SV": {
-    "id": "",
+    "id": "136-130_Sasuke_Uchiha_SV",
     "isToken": false,
     "face": {
       "front": {
@@ -2352,7 +2352,7 @@
     "cost": "7"
   },
   "137-130_Kakashi_Hatake_S": {
-    "id": "",
+    "id": "137-130_Kakashi_Hatake_S",
     "isToken": false,
     "face": {
       "front": {
@@ -2368,7 +2368,7 @@
     "cost": "7"
   },
   "137-130_Kakashi_Hatake_SV": {
-    "id": "",
+    "id": "137-130_Kakashi_Hatake_SV",
     "isToken": false,
     "face": {
       "front": {
@@ -2384,7 +2384,7 @@
     "cost": "7"
   },
   "138-130_Orochimaru_S": {
-    "id": "",
+    "id": "138-130_Orochimaru_S",
     "isToken": false,
     "face": {
       "front": {
@@ -2400,7 +2400,7 @@
     "cost": "6"
   },
   "143-130_Itachi_Uchiha_M": {
-    "id": "",
+    "id": "143-130_Itachi_Uchiha_M",
     "isToken": false,
     "face": {
       "front": {
@@ -2416,7 +2416,7 @@
     "cost": "5"
   },
   "144-130_Kisame_Hoshigaki_M": {
-    "id": "",
+    "id": "144-130_Kisame_Hoshigaki_M",
     "isToken": false,
     "face": {
       "front": {
@@ -2432,7 +2432,7 @@
     "cost": "6"
   },
   "MSS 01_Call_for_support_Mission": {
-    "id": "",
+    "id": "MSS 01_Call_for_support_Mission",
     "isToken": false,
     "face": {
       "front": {
@@ -2448,7 +2448,7 @@
     "cost": ""
   },
   "MSS 02_Chunin_Exam_Mission": {
-    "id": "",
+    "id": "MSS 02_Chunin_Exam_Mission",
     "isToken": false,
     "face": {
       "front": {
@@ -2464,7 +2464,7 @@
     "cost": ""
   },
   "MSS 03_Find_the_traitor_Mission": {
-    "id": "",
+    "id": "MSS 03_Find_the_traitor_Mission",
     "isToken": false,
     "face": {
       "front": {
@@ -2480,7 +2480,7 @@
     "cost": ""
   },
   "MSS 04_Assassination_Mission": {
-    "id": "",
+    "id": "MSS 04_Assassination_Mission",
     "isToken": false,
     "face": {
       "front": {
@@ -2496,7 +2496,7 @@
     "cost": ""
   },
   "MSS 05_Bring_it_back_Mission": {
-    "id": "",
+    "id": "MSS 05_Bring_it_back_Mission",
     "isToken": false,
     "face": {
       "front": {
@@ -2512,7 +2512,7 @@
     "cost": ""
   },
   "MSS 06_Rescue_a_friend_Mission": {
-    "id": "",
+    "id": "MSS 06_Rescue_a_friend_Mission",
     "isToken": false,
     "face": {
       "front": {
@@ -2528,7 +2528,7 @@
     "cost": ""
   },
   "MSS 07_I_have_to_go_Mission": {
-    "id": "",
+    "id": "MSS 07_I_have_to_go_Mission",
     "isToken": false,
     "face": {
       "front": {
@@ -2544,7 +2544,7 @@
     "cost": ""
   },
   "MSS 08_Set_a_trap_Mission": {
-    "id": "",
+    "id": "MSS 08_Set_a_trap_Mission",
     "isToken": false,
     "face": {
       "front": {
@@ -2560,7 +2560,7 @@
     "cost": ""
   },
   "MSS 09_Protect_the_Leader_Mission": {
-    "id": "",
+    "id": "MSS 09_Protect_the_Leader_Mission",
     "isToken": false,
     "face": {
       "front": {
@@ -2576,7 +2576,7 @@
     "cost": ""
   },
   "MSS 10_Chakra_Training_Mission": {
-    "id": "",
+    "id": "MSS 10_Chakra_Training_Mission",
     "isToken": false,
     "face": {
       "front": {
