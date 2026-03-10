@@ -434,6 +434,23 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           },
+            "Mana": {
+            "title": "Mana",
+            "isHidden": "no",
+            "height": "12.9",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "displayedTitle": "Chakra",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": true,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "autoPayFrom": true
+          },
           "Mana_Zone": {
             "title": "Mana_Zone",
             "isHidden": "no",
