@@ -1,0 +1,2594 @@
+{
+  "1_Naruto_Uzumaki_L": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Naruto Uzumaki, I'll be the greatest Hokage",
+        "type": false,
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/1_Naruto_Uzumaki_L.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Naruto Uzumaki, I'll be the greatest Hokage",
+    "type": false,
+    "cost": "6"
+  },
+  "001-130_Hiruzen_Sarutobi_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hiruzen Sarutobi, The Professor",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/001-130_Hiruzen_Sarutobi_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hiruzen Sarutobi, The Professor",
+    "type": false,
+    "cost": "3"
+  },
+  "002-130_Hiruzen_Sarutobi_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hiruzen Sarutobi, Third Hokage",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/002-130_Hiruzen_Sarutobi_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hiruzen Sarutobi, Third Hokage",
+    "type": false,
+    "cost": "5"
+  },
+  "003-130_Tsunade_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tsunade, Master Medical Ninja",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/003-130_Tsunade_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tsunade, Master Medical Ninja",
+    "type": false,
+    "cost": "3"
+  },
+  "004-130_Tsunade_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tsunade, Mitotic Regeneration",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/004-130_Tsunade_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tsunade, Mitotic Regeneration",
+    "type": false,
+    "cost": "4"
+  },
+  "005-130_Shizune_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shizune, Assistant to Tsunade",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/005-130_Shizune_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shizune, Assistant to Tsunade",
+    "type": false,
+    "cost": "2"
+  },
+  "006-130_Shizune_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shizune, Prepared Needle Shot",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/006-130_Shizune_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shizune, Prepared Needle Shot",
+    "type": false,
+    "cost": "3"
+  },
+  "007-130_Jiraiya_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jiraiya, Toad sage",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/007-130_Jiraiya_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jiraiya, Toad sage",
+    "type": false,
+    "cost": "4"
+  },
+  "008-130_Jiraiya_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jiraiya, Earth Style: Dark Swamp",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/008-130_Jiraiya_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jiraiya, Earth Style: Dark Swamp",
+    "type": false,
+    "cost": "5"
+  },
+  "009-130_Naruto_Uzumaki_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Naruto Uzumaki, Genin of the Leaf Village",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/009-130_Naruto_Uzumaki_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Naruto Uzumaki, Genin of the Leaf Village",
+    "type": false,
+    "cost": "2"
+  },
+  "010-130_Naruto_Uzumaki_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Naruto Uzumaki, Substitution Jutsu",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/010-130_Naruto_Uzumaki_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Naruto Uzumaki, Substitution Jutsu",
+    "type": false,
+    "cost": "3"
+  },
+  "011-130_Sakura_Haruno_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sakura Haruno, Genin of Team 7",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/011-130_Sakura_Haruno_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sakura Haruno, Genin of Team 7",
+    "type": false,
+    "cost": "2"
+  },
+  "012-130_Sakura_Haruno_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sakura Haruno, Chakra Prowess",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/012-130_Sakura_Haruno_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sakura Haruno, Chakra Prowess",
+    "type": false,
+    "cost": "3"
+  },
+  "013-130_Sasuke_Uchiha_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sasuke Uchiha, Last of the Uchiha Clan",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/013-130_Sasuke_Uchiha_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sasuke Uchiha, Last of the Uchiha Clan",
+    "type": false,
+    "cost": "2"
+  },
+  "014-130_Sasuke_Uchiha_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sasuke Uchiha, Sharingan",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/014-130_Sasuke_Uchiha_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sasuke Uchiha, Sharingan",
+    "type": false,
+    "cost": "3"
+  },
+  "015-130_Kakashi_Hatake_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kakashi Hatake, Teacher of Team 7",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/015-130_Kakashi_Hatake_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kakashi Hatake, Teacher of Team 7",
+    "type": false,
+    "cost": "3"
+  },
+  "016-130_Kakashi_Hatake_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kakashi Hatake, Sharingan",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/016-130_Kakashi_Hatake_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kakashi Hatake, Sharingan",
+    "type": false,
+    "cost": "4"
+  },
+  "017-130_Choji_Akimichi_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Choji Akimichi, Expansion Jutsu",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/017-130_Choji_Akimichi_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Choji Akimichi, Expansion Jutsu",
+    "type": false,
+    "cost": "2"
+  },
+  "018-130_Choji_Akimichi_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Choji Akimichi, Human Boulder",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/018-130_Choji_Akimichi_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Choji Akimichi, Human Boulder",
+    "type": false,
+    "cost": "4"
+  },
+  "019-130_Ino_Yamanaka_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ino Yamanaka, Genin of Team 10",
+        "type": false,
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/019-130_Ino_Yamanaka_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ino Yamanaka, Genin of Team 10",
+    "type": false,
+    "cost": "1"
+  },
+  "020-130_Ino_Yamanaka_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ino Yamanaka, Mind Transfer Jutsu",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/020-130_Ino_Yamanaka_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ino Yamanaka, Mind Transfer Jutsu",
+    "type": false,
+    "cost": "3"
+  },
+  "021-130_Shikamaru_Nara_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shikamaru Nara, Genin of Team 10",
+        "type": false,
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/021-130_Shikamaru_Nara_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shikamaru Nara, Genin of Team 10",
+    "type": false,
+    "cost": "1"
+  },
+  "022-130_Shikamaru_Nara_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shikamaru Nara, Shadow Possession Jutsu",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/022-130_Shikamaru_Nara_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shikamaru Nara, Shadow Possession Jutsu",
+    "type": false,
+    "cost": "3"
+  },
+  "023-130_Asuma_Sarutobi_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Asuma Sarutobi, Teacher of Team 10",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/023-130_Asuma_Sarutobi_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Asuma Sarutobi, Teacher of Team 10",
+    "type": false,
+    "cost": "3"
+  },
+  "024-130_Asuma_Sarutobi_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Asuma Sarutobi, Chakra Blade",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/024-130_Asuma_Sarutobi_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Asuma Sarutobi, Chakra Blade",
+    "type": false,
+    "cost": "4"
+  },
+  "025-130_Kiba_Inuzuka_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kiba Inuzuka, Genin of Team 8",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/025-130_Kiba_Inuzuka_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kiba Inuzuka, Genin of Team 8",
+    "type": false,
+    "cost": "2"
+  },
+  "026-130_Kiba_Inuzuka_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kiba Inuzuka, All-Fours Jutsu",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/026-130_Kiba_Inuzuka_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kiba Inuzuka, All-Fours Jutsu",
+    "type": false,
+    "cost": "3"
+  },
+  "027-130_Akamaru_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Akamaru, Ninja Hound",
+        "type": false,
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/027-130_Akamaru_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Akamaru, Ninja Hound",
+    "type": false,
+    "cost": "1"
+  },
+  "028-130_Akamaru_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Akamaru, Man Beast Clone",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/028-130_Akamaru_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Akamaru, Man Beast Clone",
+    "type": false,
+    "cost": "2"
+  },
+  "029-130_Akamaru_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Akamaru, Two-Headed Wolf",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/029-130_Akamaru_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Akamaru, Two-Headed Wolf",
+    "type": false,
+    "cost": "4"
+  },
+  "030-130_Hinata_Hyuga_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hinata Hyuga, Gentle Fist",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/030-130_Hinata_Hyuga_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hinata Hyuga, Gentle Fist",
+    "type": false,
+    "cost": "2"
+  },
+  "031-130_Hinata_Hyuga_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hinata Hyuga, Byakugan",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/031-130_Hinata_Hyuga_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hinata Hyuga, Byakugan",
+    "type": false,
+    "cost": "3"
+  },
+  "032-130_Shino_Aburame_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shino Aburame, Parasitic Insects",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/032-130_Shino_Aburame_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shino Aburame, Parasitic Insects",
+    "type": false,
+    "cost": "2"
+  },
+  "034-130_Kurenai_Yuhi_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kurenai Yuhi, Teacher of Team 8",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/034-130_Kurenai_Yuhi_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kurenai Yuhi, Teacher of Team 8",
+    "type": false,
+    "cost": "3"
+  },
+  "035-130_Kurenai_Yuhi_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kurenai Yuhi, Tree Bind: Death",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/035-130_Kurenai_Yuhi_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kurenai Yuhi, Tree Bind: Death",
+    "type": false,
+    "cost": "4"
+  },
+  "036-130_Neji_Hyuga_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Neji Hyuga, Gentle Fist",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/036-130_Neji_Hyuga_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neji Hyuga, Gentle Fist",
+    "type": false,
+    "cost": "2"
+  },
+  "037-130_Neji_Hyuga_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Neji Hyuga, Eight Trigrams: Palm Rotation",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/037-130_Neji_Hyuga_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neji Hyuga, Eight Trigrams: Palm Rotation",
+    "type": false,
+    "cost": "4"
+  },
+  "038-130_Rock_Lee_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rock Lee, Training in Ferocious Fist",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/038-130_Rock_Lee_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rock Lee, Training in Ferocious Fist",
+    "type": false,
+    "cost": "2"
+  },
+  "039-130_Rock_Lee_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rock Lee, Primary Lotus",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/039-130_Rock_Lee_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rock Lee, Primary Lotus",
+    "type": false,
+    "cost": "4"
+  },
+  "040-130_Tenten_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tenten, Genin of Team Guy",
+        "type": false,
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/040-130_Tenten_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tenten, Genin of Team Guy",
+    "type": false,
+    "cost": "1"
+  },
+  "041-130_Tenten_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tenten, Weapon Specialist",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/041-130_Tenten_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tenten, Weapon Specialist",
+    "type": false,
+    "cost": "3"
+  },
+  "042-130_Might_Guy_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Might Guy, Teacher of Team Guy",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/042-130_Might_Guy_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Might Guy, Teacher of Team Guy",
+    "type": false,
+    "cost": "3"
+  },
+  "043-130_Might_Guy_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Might Guy, Ferocious Fist",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/043-130_Might_Guy_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Might Guy, Ferocious Fist",
+    "type": false,
+    "cost": "4"
+  },
+  "044-130_Anko_Mitarashi_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anko Mitarashi, Genin Exams Proctor",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/044-130_Anko_Mitarashi_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anko Mitarashi, Genin Exams Proctor",
+    "type": false,
+    "cost": "2"
+  },
+  "046-130_Ebisu_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ebisu, Elite Trainer",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/046-130_Ebisu_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ebisu, Elite Trainer",
+    "type": false,
+    "cost": "3"
+  },
+  "047-130_Iruka_Umino_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Iruka Umino, Academy Instructor",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/047-130_Iruka_Umino_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iruka Umino, Academy Instructor",
+    "type": false,
+    "cost": "3"
+  },
+  "048-130_Hayate_Gekko_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hayate Gekko, Skilled Shinobi",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/048-130_Hayate_Gekko_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hayate Gekko, Skilled Shinobi",
+    "type": false,
+    "cost": "3"
+  },
+  "049-130_Genma_Shiranui_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Genma Shiranui, Elite Guard",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/049-130_Genma_Shiranui_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Genma Shiranui, Elite Guard",
+    "type": false,
+    "cost": "3"
+  },
+  "050-130_Orochimaru_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orochimaru, Undercover",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/050-130_Orochimaru_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orochimaru, Undercover",
+    "type": false,
+    "cost": "4"
+  },
+  "051-130_Orochimaru_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orochimaru, Orochimaru Style: Substitution Jutsu",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/051-130_Orochimaru_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orochimaru, Orochimaru Style: Substitution Jutsu",
+    "type": false,
+    "cost": "5"
+  },
+  "052-130_Kabuto_Yakushi_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kabuto Yakushi, Infiltrator",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/052-130_Kabuto_Yakushi_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kabuto Yakushi, Infiltrator",
+    "type": false,
+    "cost": "3"
+  },
+  "053-130_Kabuto_Yakushi_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kabuto Yakushi, Yin Healing Wound Destruction",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/053-130_Kabuto_Yakushi_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kabuto Yakushi, Yin Healing Wound Destruction",
+    "type": false,
+    "cost": "4"
+  },
+  "054-130_Kabuto_Yakushi_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kabuto Yakushi, Nirvana Temple Jutsu",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/054-130_Kabuto_Yakushi_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kabuto Yakushi, Nirvana Temple Jutsu",
+    "type": false,
+    "cost": "5"
+  },
+  "055-130_Kimimaro_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kimimaro, Camelia Dance",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/055-130_Kimimaro_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kimimaro, Camelia Dance",
+    "type": false,
+    "cost": "3"
+  },
+  "056-130_Kimimaro_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kimimaro, Shikotsumyaku",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/056-130_Kimimaro_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kimimaro, Shikotsumyaku",
+    "type": false,
+    "cost": "4"
+  },
+  "057-130_Jirobo_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jirobo, Bearer of the Curse Mark",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/057-130_Jirobo_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jirobo, Bearer of the Curse Mark",
+    "type": false,
+    "cost": "2"
+  },
+  "058-130_Jirobo_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jirobo, Earth Style Barrier: Earth Dome Prison",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/058-130_Jirobo_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jirobo, Earth Style Barrier: Earth Dome Prison",
+    "type": false,
+    "cost": "4"
+  },
+  "059-130_Kidomaru_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kidomaru, Bearer of the Curse Mark",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/059-130_Kidomaru_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kidomaru, Bearer of the Curse Mark",
+    "type": false,
+    "cost": "3"
+  },
+  "060-130_Kidomaru_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kidomaru, Spiral Spider Web",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/060-130_Kidomaru_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kidomaru, Spiral Spider Web",
+    "type": false,
+    "cost": "4"
+  },
+  "061-130_Sakon_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sakon, Bearer of the Curse Mark",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/061-130_Sakon_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sakon, Bearer of the Curse Mark",
+    "type": false,
+    "cost": "3"
+  },
+  "062-130_Sakon_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sakon, Black Seal",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/062-130_Sakon_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sakon, Black Seal",
+    "type": false,
+    "cost": "4"
+  },
+  "063-130_Ukon_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ukon, Molecular Possession",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/063-130_Ukon_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ukon, Molecular Possession",
+    "type": false,
+    "cost": "5"
+  },
+  "064-130_Tayuya_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tayuya, Bearer of the Curse Mark",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/064-130_Tayuya_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tayuya, Bearer of the Curse Mark",
+    "type": false,
+    "cost": "2"
+  },
+  "065-130_Tayuya_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tayuya, Demon Flute",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/065-130_Tayuya_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tayuya, Demon Flute",
+    "type": false,
+    "cost": "4"
+  },
+  "066-130_Rage_Ogres_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rage Ogres, Summoning",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/066-130_Rage_Ogres_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage Ogres, Summoning",
+    "type": false,
+    "cost": "4"
+  },
+  "067-130_Rashomon_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rashomon, Summoning",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/067-130_Rashomon_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rashomon, Summoning",
+    "type": false,
+    "cost": "4"
+  },
+  "068-130_Dosu_Kinuta_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dosu Kinuta, Superhuman Hearing",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/068-130_Dosu_Kinuta_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dosu Kinuta, Superhuman Hearing",
+    "type": false,
+    "cost": "3"
+  },
+  "069-130_Dosu_Kinuta_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dosu Kinuta, Resonating Echo Speaker",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/069-130_Dosu_Kinuta_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dosu Kinuta, Resonating Echo Speaker",
+    "type": false,
+    "cost": "4"
+  },
+  "070-130_Zaku_Abumi_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zaku Abumi, Overconfident Shinobi",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/070-130_Zaku_Abumi_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zaku Abumi, Overconfident Shinobi",
+    "type": false,
+    "cost": "2"
+  },
+  "071-130_Zaku_Abumi_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zaku Abumi, Slicing Sound Wave",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/071-130_Zaku_Abumi_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zaku Abumi, Slicing Sound Wave",
+    "type": false,
+    "cost": "4"
+  },
+  "072-130_Kin_Tsuchi_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kin Tsuchi, Kunoichi",
+        "type": false,
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/072-130_Kin_Tsuchi_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kin Tsuchi, Kunoichi",
+    "type": false,
+    "cost": "1"
+  },
+  "073-130_Kin_Tsuchi_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kin Tsuchi, Bell Sound Clone",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/073-130_Kin_Tsuchi_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kin Tsuchi, Bell Sound Clone",
+    "type": false,
+    "cost": "4"
+  },
+  "074-130_Gaara_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gaara, Genin of the Sand Village",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/074-130_Gaara_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gaara, Genin of the Sand Village",
+    "type": false,
+    "cost": "2"
+  },
+  "075-130_Gaara_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gaara, Sand Shield",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/075-130_Gaara_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gaara, Sand Shield",
+    "type": false,
+    "cost": "3"
+  },
+  "076-130_One-Tail_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "One-Tail, Partial transformation",
+        "type": false,
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/076-130_One-Tail_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "One-Tail, Partial transformation",
+    "type": false,
+    "cost": "6"
+  },
+  "077-130_Kankuro_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kankuro, Chakra Threads",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/077-130_Kankuro_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kankuro, Chakra Threads",
+    "type": false,
+    "cost": "3"
+  },
+  "078-130_Kankuro_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kankuro, Puppet Master Jutsu",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/078-130_Kankuro_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kankuro, Puppet Master Jutsu",
+    "type": false,
+    "cost": "4"
+  },
+  "079-130_Temari_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Temari, Kunoichi",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/079-130_Temari_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Temari, Kunoichi",
+    "type": false,
+    "cost": "2"
+  },
+  "080-130_Temari_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Temari, Cyclone Scythe Jutsu",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/080-130_Temari_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Temari, Cyclone Scythe Jutsu",
+    "type": false,
+    "cost": "4"
+  },
+  "081-130_Baki_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Baki, Council Agent",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/081-130_Baki_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baki, Council Agent",
+    "type": false,
+    "cost": "3"
+  },
+  "082-130_Baki_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Baki, Wind Sword",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/082-130_Baki_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baki, Wind Sword",
+    "type": false,
+    "cost": "4"
+  },
+  "083-130_Rasa_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rasa, Fourth Kazekage",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/083-130_Rasa_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rasa, Fourth Kazekage",
+    "type": false,
+    "cost": "3"
+  },
+  "084-130_Yashamaru_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yashamaru, Gaara's Caretaker",
+        "type": false,
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/084-130_Yashamaru_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yashamaru, Gaara's Caretaker",
+    "type": false,
+    "cost": "1"
+  },
+  "085-130_Yashamaru_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yashamaru, Sacrificial Mission",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/085-130_Yashamaru_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yashamaru, Sacrificial Mission",
+    "type": false,
+    "cost": "4"
+  },
+  "086-130_Zabuza_Momochi_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zabuza Momochi, Kubikiribōchō",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/086-130_Zabuza_Momochi_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zabuza Momochi, Kubikiribōchō",
+    "type": false,
+    "cost": "3"
+  },
+  "087-130_Zabuza_Momochi_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zabuza Momochi, Water Prison Jutsu",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/087-130_Zabuza_Momochi_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zabuza Momochi, Water Prison Jutsu",
+    "type": false,
+    "cost": "5"
+  },
+  "088-130_Haku_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Haku, Orphan from the Land of Water",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/088-130_Haku_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Haku, Orphan from the Land of Water",
+    "type": false,
+    "cost": "2"
+  },
+  "089-130_Haku_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Haku, Crystal Ice Mirrors",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/089-130_Haku_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Haku, Crystal Ice Mirrors",
+    "type": false,
+    "cost": "4"
+  },
+  "090-130_Itachi_Uchiha_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Itachi Uchiha, Akatsuki Investigator",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/090-130_Itachi_Uchiha_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Itachi Uchiha, Akatsuki Investigator",
+    "type": false,
+    "cost": "3"
+  },
+  "091-130_Itachi_Uchiha_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Itachi Uchiha, Mangekyo Sharingan",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/091-130_Itachi_Uchiha_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Itachi Uchiha, Mangekyo Sharingan",
+    "type": false,
+    "cost": "5"
+  },
+  "092-130_Kisame_Hoshigaki_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kisame Hoshigaki, Rogue Ninja of the Hidden Mist",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/092-130_Kisame_Hoshigaki_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kisame Hoshigaki, Rogue Ninja of the Hidden Mist",
+    "type": false,
+    "cost": "3"
+  },
+  "093-130_Kisame_Hoshigaki_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kisame Hoshigaki, Samehada",
+        "type": false,
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/093-130_Kisame_Hoshigaki_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kisame Hoshigaki, Samehada",
+    "type": false,
+    "cost": "6"
+  },
+  "094-130_Gamabunta_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gamabunta, Chief Toad",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/094-130_Gamabunta_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gamabunta, Chief Toad",
+    "type": false,
+    "cost": "3"
+  },
+  "095-130_Gamahiro_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gamahiro, Armed Toad",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/095-130_Gamahiro_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gamahiro, Armed Toad",
+    "type": false,
+    "cost": "4"
+  },
+  "096-130_Gamakichi_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gamakichi, Eldest Son of Gamabunta",
+        "type": false,
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/096-130_Gamakichi_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gamakichi, Eldest Son of Gamabunta",
+    "type": false,
+    "cost": "2"
+  },
+  "097-130_Gamatatsu_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gamatatsu, Youngest Son of Gamabunta",
+        "type": false,
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/097-130_Gamatatsu_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gamatatsu, Youngest Son of Gamabunta",
+    "type": false,
+    "cost": "1"
+  },
+  "098-130_Katsuyu_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Katsuyu, Giant Slug",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/098-130_Katsuyu_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Katsuyu, Giant Slug",
+    "type": false,
+    "cost": "3"
+  },
+  "099-130_Pakkun_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pakkun, Kakashi's Ninja Hound",
+        "type": false,
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/099-130_Pakkun_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pakkun, Kakashi's Ninja Hound",
+    "type": false,
+    "cost": "1"
+  },
+  "100-130_Ninja_Hound_Corps_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ninja Hound Corps, Kakashi's Ninja Hounds",
+        "type": false,
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/100-130_Ninja_Hound_Corps_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ninja Hound Corps, Kakashi's Ninja Hounds",
+    "type": false,
+    "cost": "1"
+  },
+  "101-130_TonTon_C": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "TonTon, Tsunade's Ninja Pig",
+        "type": false,
+        "cost": "0",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/101-130_TonTon_C.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "TonTon, Tsunade's Ninja Pig",
+    "type": false,
+    "cost": "0"
+  },
+  "102-130_Manda_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Manda, Summoned by Orochimaru",
+        "type": false,
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/102-130_Manda_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Manda, Summoned by Orochimaru",
+    "type": false,
+    "cost": "3"
+  },
+  "103-130_Giant_Spider_UC": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Giant Spider, Rain of Spiders",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/103-130_Giant_Spider_UC.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Giant Spider, Rain of Spiders",
+    "type": false,
+    "cost": "4"
+  },
+  "104-130_Tsunade_M": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tsunade, Legendary Sannin",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/104-130_Tsunade_M.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tsunade, Legendary Sannin",
+    "type": false,
+    "cost": "5"
+  },
+  "104-130_Tsunade_R": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tsunade, Legendary Sannin",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/104-130_Tsunade_R.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tsunade, Legendary Sannin",
+    "type": false,
+    "cost": "5"
+  },
+  "104-130_Tsunade_RA": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tsunade, I'm the Fifth Hokage of the Leaf Village!",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/104-130_Tsunade_RA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tsunade, I'm the Fifth Hokage of the Leaf Village!",
+    "type": false,
+    "cost": "5"
+  },
+  "105-130_Jiraiya_R": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jiraiya, Summoning Jutsu",
+        "type": false,
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/105-130_Jiraiya_R.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jiraiya, Summoning Jutsu",
+    "type": false,
+    "cost": "6"
+  },
+  "105-130_Jiraiya_RA": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jiraiya, Hermit of Mount Myoboku",
+        "type": false,
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/105-130_Jiraiya_RA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jiraiya, Hermit of Mount Myoboku",
+    "type": false,
+    "cost": "6"
+  },
+  "106-130_Kakashi_Hatake_R": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kakashi Hatake, Curse Sealing",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/106-130_Kakashi_Hatake_R.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kakashi Hatake, Curse Sealing",
+    "type": false,
+    "cost": "5"
+  },
+  "106-130_Kakashi_Hatake_RA": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kakashi Hatake, The Copy Ninja",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/106-130_Kakashi_Hatake_RA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kakashi Hatake, The Copy Ninja",
+    "type": false,
+    "cost": "5"
+  },
+  "107-130_Sasuke_Uchiha_R": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sasuke Uchiha, Chidori",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/107-130_Sasuke_Uchiha_R.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sasuke Uchiha, Chidori",
+    "type": false,
+    "cost": "5"
+  },
+  "107-130_Sasuke_Uchiha_RA": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sasuke Uchiha, The last Uchiha",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/107-130_Sasuke_Uchiha_RA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sasuke Uchiha, The last Uchiha",
+    "type": false,
+    "cost": "5"
+  },
+  "108-130_Naruto_Uzumaki_R": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Naruto Uzumaki, Fury of the Rasengan",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/108-130_Naruto_Uzumaki_R.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Naruto Uzumaki, Fury of the Rasengan",
+    "type": false,
+    "cost": "5"
+  },
+  "108-130_Naruto_Uzumaki_RA": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Naruto Uzumaki, \"Believe it!\"",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/108-130_Naruto_Uzumaki_RA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Naruto Uzumaki, \"Believe it!\"",
+    "type": false,
+    "cost": "5"
+  },
+  "109-130_Sakura_Haruno_R": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sakura Haruno, Medical Ninja",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/109-130_Sakura_Haruno_R.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sakura Haruno, Medical Ninja",
+    "type": false,
+    "cost": "4"
+  },
+  "109-130_Sakura_Haruno_RA": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sakura Haruno, Now it's my turn to take the lead.",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/109-130_Sakura_Haruno_RA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sakura Haruno, Now it's my turn to take the lead.",
+    "type": false,
+    "cost": "4"
+  },
+  "110-130_Ino_Yamanaka_R": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ino Yamanaka, Mind Destruction Jutsu",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/110-130_Ino_Yamanaka_R.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ino Yamanaka, Mind Destruction Jutsu",
+    "type": false,
+    "cost": "5"
+  },
+  "110-130_Ino_Yamanaka_RA": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ino Yamanaka, Mind Transfer Jutsu",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/110-130_Ino_Yamanaka_RA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ino Yamanaka, Mind Transfer Jutsu",
+    "type": false,
+    "cost": "5"
+  },
+  "111-130_Shikamaru_Nara_M": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shikamaru Nara, Shadow Strangle Jutsu",
+        "type": false,
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/111-130_Shikamaru_Nara_M.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shikamaru Nara, Shadow Strangle Jutsu",
+    "type": false,
+    "cost": "6"
+  },
+  "111-130_Shikamaru_Nara_R": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shikamaru Nara, Shadow Strangle Jutsu",
+        "type": false,
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/111-130_Shikamaru_Nara_R.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shikamaru Nara, Shadow Strangle Jutsu",
+    "type": false,
+    "cost": "6"
+  },
+  "111-130_Shikamaru_Nara_RA": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shikamaru Nara, This whole thing's a drag…",
+        "type": false,
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/111-130_Shikamaru_Nara_RA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shikamaru Nara, This whole thing's a drag…",
+    "type": false,
+    "cost": "6"
+  },
+  "112-130_Choji_Akimichi_R": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Choji Akimichi, Chili Pepper Pill",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/112-130_Choji_Akimichi_R.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Choji Akimichi, Chili Pepper Pill",
+    "type": false,
+    "cost": "5"
+  },
+  "112-130_Choji_Akimichi_RA": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Choji Akimichi, Who you calling fat?",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/112-130_Choji_Akimichi_RA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Choji Akimichi, Who you calling fat?",
+    "type": false,
+    "cost": "5"
+  },
+  "113-130_Kiba_Inuzuka_M": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kiba Inuzuka, Fang Over Fang",
+        "type": false,
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/113-130_Kiba_Inuzuka_M.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kiba Inuzuka, Fang Over Fang",
+    "type": false,
+    "cost": "6"
+  },
+  "113-130_Kiba_Inuzuka_R": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kiba Inuzuka, Fang Over Fang",
+        "type": false,
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/113-130_Kiba_Inuzuka_R.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kiba Inuzuka, Fang Over Fang",
+    "type": false,
+    "cost": "6"
+  },
+  "113-130_Kiba_Inuzuka_RA": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kiba Inuzuka, Stay with me Akamaru.",
+        "type": false,
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/113-130_Kiba_Inuzuka_RA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kiba Inuzuka, Stay with me Akamaru.",
+    "type": false,
+    "cost": "6"
+  },
+  "114-130_Hinata_Hyuga_R": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hinata Hyuga, Protective Eight Trigrams Sixty-Four Palms",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/114-130_Hinata_Hyuga_R.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hinata Hyuga, Protective Eight Trigrams Sixty-Four Palms",
+    "type": false,
+    "cost": "5"
+  },
+  "114-130_Hinata_Hyuga_RA": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hinata Hyuga, No more hiding!",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/114-130_Hinata_Hyuga_RA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hinata Hyuga, No more hiding!",
+    "type": false,
+    "cost": "5"
+  },
+  "115-130_Shino_Aburame_R": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shino Aburame, Wall of Insects Jutsu",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/115-130_Shino_Aburame_R.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shino Aburame, Wall of Insects Jutsu",
+    "type": false,
+    "cost": "5"
+  },
+  "115-130_Shino_Aburame_RA": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shino Aburame, I am a member of the Hidden Leaf Village's Aburame clan.",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/115-130_Shino_Aburame_RA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shino Aburame, I am a member of the Hidden Leaf Village's Aburame clan.",
+    "type": false,
+    "cost": "5"
+  },
+  "116-130_Neji_Hyuga_R": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Neji Hyuga, Eight Trigrams Sixty-Four Palms",
+        "type": false,
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/116-130_Neji_Hyuga_R.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neji Hyuga, Eight Trigrams Sixty-Four Palms",
+    "type": false,
+    "cost": "6"
+  },
+  "116-130_Neji_Hyuga_RA": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Neji Hyuga, Eight Trigrams Sixty-Four Palms",
+        "type": false,
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/116-130_Neji_Hyuga_RA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neji Hyuga, Eight Trigrams Sixty-Four Palms",
+    "type": false,
+    "cost": "6"
+  },
+  "117-130_Rock_Lee_M": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rock Lee, Loopy Fist",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/117-130_Rock_Lee_M.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rock Lee, Loopy Fist",
+    "type": false,
+    "cost": "5"
+  },
+  "117-130_Rock_Lee_R": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rock Lee, Loopy Fist",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/117-130_Rock_Lee_R.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rock Lee, Loopy Fist",
+    "type": false,
+    "cost": "5"
+  },
+  "117-130_Rock_Lee_RA": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rock Lee, I will make you proud, Sensei.",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/117-130_Rock_Lee_RA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rock Lee, I will make you proud, Sensei.",
+    "type": false,
+    "cost": "5"
+  },
+  "119-130_Kankuro_R": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kankuro, Secret Black Move: Iron Maiden",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/119-130_Kankuro_R.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kankuro, Secret Black Move: Iron Maiden",
+    "type": false,
+    "cost": "5"
+  },
+  "120-130_Gaara_R": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gaara, Sand Coffin",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/120-130_Gaara_R.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gaara, Sand Coffin",
+    "type": false,
+    "cost": "4"
+  },
+  "120-130_Gaara_RA": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gaara, Sand Coffin",
+        "type": false,
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/120-130_Gaara_RA.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gaara, Sand Coffin",
+    "type": false,
+    "cost": "4"
+  },
+  "121-130_Temari_R": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Temari, Wind Scythe Jutsu",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/121-130_Temari_R.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Temari, Wind Scythe Jutsu",
+    "type": false,
+    "cost": "5"
+  },
+  "131-130_Tsunade_S": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tsunade, Fifth Hokage",
+        "type": false,
+        "cost": "7",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/131-130_Tsunade_S.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tsunade, Fifth Hokage",
+    "type": false,
+    "cost": "7"
+  },
+  "131-130_Tsunade_SV": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tsunade, Fifth Hokage",
+        "type": false,
+        "cost": "7",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/131-130_Tsunade_SV.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tsunade, Fifth Hokage",
+    "type": false,
+    "cost": "7"
+  },
+  "132-130_Jiraiya_S": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jiraiya, Toad Mouth Trap",
+        "type": false,
+        "cost": "8",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/132-130_Jiraiya_S.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jiraiya, Toad Mouth Trap",
+    "type": false,
+    "cost": "8"
+  },
+  "133-130_Naruto_Uzumaki_M": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Naruto Uzumaki, Ready or not, Ramen, here I come!",
+        "type": false,
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/133-130_Naruto_Uzumaki_M.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Naruto Uzumaki, Ready or not, Ramen, here I come!",
+    "type": false,
+    "cost": "6"
+  },
+  "133-130_Naruto_Uzumaki_S": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Naruto Uzumaki, Rasengan",
+        "type": false,
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/133-130_Naruto_Uzumaki_S.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Naruto Uzumaki, Rasengan",
+    "type": false,
+    "cost": "6"
+  },
+  "133-130_Naruto_Uzumaki_SV": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Naruto Uzumaki, Rasengan",
+        "type": false,
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/133-130_Naruto_Uzumaki_SV.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Naruto Uzumaki, Rasengan",
+    "type": false,
+    "cost": "6"
+  },
+  "135-130_Sakura_Haruno_S": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sakura Haruno, The Leaf Medical Corps",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/135-130_Sakura_Haruno_S.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sakura Haruno, The Leaf Medical Corps",
+    "type": false,
+    "cost": "5"
+  },
+  "136-130_Sasuke_Uchiha_S": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sasuke Uchiha, Heaven Curse Mark",
+        "type": false,
+        "cost": "7",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/136-130_Sasuke_Uchiha_S.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sasuke Uchiha, Heaven Curse Mark",
+    "type": false,
+    "cost": "7"
+  },
+  "136-130_Sasuke_Uchiha_SV": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sasuke Uchiha, Heaven Curse Mark",
+        "type": false,
+        "cost": "7",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/136-130_Sasuke_Uchiha_SV.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sasuke Uchiha, Heaven Curse Mark",
+    "type": false,
+    "cost": "7"
+  },
+  "137-130_Kakashi_Hatake_S": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kakashi Hatake, Lightning Blade",
+        "type": false,
+        "cost": "7",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/137-130_Kakashi_Hatake_S.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kakashi Hatake, Lightning Blade",
+    "type": false,
+    "cost": "7"
+  },
+  "137-130_Kakashi_Hatake_SV": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kakashi Hatake, Lightning Blade",
+        "type": false,
+        "cost": "7",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/137-130_Kakashi_Hatake_SV.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kakashi Hatake, Lightning Blade",
+    "type": false,
+    "cost": "7"
+  },
+  "138-130_Orochimaru_S": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orochimaru, Reanimation",
+        "type": false,
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/138-130_Orochimaru_S.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orochimaru, Reanimation",
+    "type": false,
+    "cost": "6"
+  },
+  "143-130_Itachi_Uchiha_M": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Itachi Uchiha, Hunting Naruto",
+        "type": false,
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/143-130_Itachi_Uchiha_M.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Itachi Uchiha, Hunting Naruto",
+    "type": false,
+    "cost": "5"
+  },
+  "144-130_Kisame_Hoshigaki_M": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kisame Hoshigaki, Chakra Absorb",
+        "type": false,
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/144-130_Kisame_Hoshigaki_M.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kisame Hoshigaki, Chakra Absorb",
+    "type": false,
+    "cost": "6"
+  },
+  "MSS 01_Call_for_support_Mission": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Call for support",
+        "type": false,
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2001_Call_for_support_Mission.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Call for support",
+    "type": false,
+    "cost": ""
+  },
+  "MSS 02_Chunin_Exam_Mission": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chunin Exam",
+        "type": false,
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2002_Chunin_Exam_Mission.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Chunin Exam",
+    "type": false,
+    "cost": ""
+  },
+  "MSS 03_Find_the_traitor_Mission": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Find the traitor",
+        "type": false,
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2003_Find_the_traitor_Mission.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Find the traitor",
+    "type": false,
+    "cost": ""
+  },
+  "MSS 04_Assassination_Mission": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Assassination",
+        "type": false,
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2004_Assassination_Mission.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Assassination",
+    "type": false,
+    "cost": ""
+  },
+  "MSS 05_Bring_it_back_Mission": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bring it back",
+        "type": false,
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2005_Bring_it_back_Mission.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Bring it back",
+    "type": false,
+    "cost": ""
+  },
+  "MSS 06_Rescue_a_friend_Mission": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rescue a friend",
+        "type": false,
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2006_Rescue_a_friend_Mission.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Rescue a friend",
+    "type": false,
+    "cost": ""
+  },
+  "MSS 07_I_have_to_go_Mission": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "I have to go",
+        "type": false,
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2007_I_have_to_go_Mission.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "I have to go",
+    "type": false,
+    "cost": ""
+  },
+  "MSS 08_Set_a_trap_Mission": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Set a trap",
+        "type": false,
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2008_Set_a_trap_Mission.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Set a trap",
+    "type": false,
+    "cost": ""
+  },
+  "MSS 09_Protect_the_Leader_Mission": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Protect the Leader",
+        "type": false,
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2009_Protect_the_Leader_Mission.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Protect the Leader",
+    "type": false,
+    "cost": ""
+  },
+  "MSS 10_Chakra_Training_Mission": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chakra Training",
+        "type": false,
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/MSS%2010_Chakra_Training_Mission.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Chakra Training",
+    "type": false,
+    "cost": ""
+  }
+}
