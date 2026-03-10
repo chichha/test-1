@@ -1,6 +1,6 @@
 {
   "name": "Naruto Mythos TCG",
-  "menuBackgroundImage": "https://lirp.cdn-website.com/99e556bf/dms3rep/multi/opt/Naruto_Ninja_card_game_BL-66112785-1920w.png",
+  "menuBackgroundImage": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/images/logo.png",
   "defaultRessources": {
     "backgrounds": [],
     "decksUrl": ""
@@ -9,7 +9,7 @@
   "cardRotation": "0",
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/CardList.json",
-    "cardBack": "https://github.com/chichha/test-1/blob/master/images/back.webp?raw=true"
+    "cardBack": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/images/back.webp"
   },
   "deckBuilding": {
     "mainFilters": [],
@@ -19,6 +19,13 @@
         "deckSize": 30,
         "maxCopies": 2,
         "info": "30 card minimum deck. Max 2 copies of the same card version. Unlimited cards with the same character name. Plus 3 Mission cards (separate)."
+      },
+      {
+        "title": "Classic",
+        "gameplay": "classic",
+        "customCategories": [
+          "classic"
+        ]
       }
     ]
   },
