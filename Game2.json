@@ -160,7 +160,9 @@
           "Mission",
           "Mana"
         ],
-        "autoPlayFromHand": {},
+        "autoPlayFromHand": {
+          "Mana": "Mana"
+        },
         "autoPlayFromStack": {},
         "sectionsDict": {
           "Hand": {
