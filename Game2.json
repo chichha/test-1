@@ -1,0 +1,454 @@
+{
+  "name": "Naruto Mythos TCG",
+  "menuBackgroundImage": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/images/logo.png",
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/Decks.json"
+  },
+  "customHelp": "Naruto Mythos TCG - Konoha Shido\n\n=== DECK BUILDING ===\nMain Deck: 30+ Character cards (max 2 copies of same version)\nMission Deck: Exactly 3 different Mission cards\n\n=== GAME SETUP ===\n1. Each player: shuffle 3 Missions face-down, randomly pick 2\n2. Combine 4 selected Missions → shuffle into Mission Deck\n3. Put unused Mission aside face-down\n4. Draw 5 cards. Optional: mulligan once (return all, reshuffle, redraw 5)\n5. Randomly determine first player → gets Edge token\n\n=== ROUND PHASES ===\nSTART: Draw top Mission → place in next Mission slot (D→C→B→A). Each player gains 5 Chakra + 1 per character in play. Each player draws 2.\n\nACTION: Edge player first. Alternate playing 1 character to a Field zone or pass. Face-up = pay Chakra. Hidden (face-down) = pay 1. Reveal hidden = pay full cost. First to pass gets Edge.\n\nEVALUATION: Compare Power per mission (D→A). Highest wins (ties → Edge holder). Need ≥1 Power. Score = printed + rank (D+1, C+2, B+3, A+4).\n\nEND: Discard leftover Chakra & Power tokens. After Round 4 → most Mission Points wins.\n\n=== ZONES ===\nMission_D/C/B/A = mission card display (Player 1 manages, shared visually)\nField_D/C/B/A = your characters assigned to that mission\nMission = Mission Deck (face-down pile)",
+  "cardRotation": "0",
+  "cards": {
+    "dataUrl": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/CardList.json",
+    "cardBack": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/images/back.webp"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Character",
+      "Mission",
+      "Chakra"
+    ],
+    "formats": [
+      {
+        "title": "Standard",
+        "gameplay": "Classic",
+        "customCategories": [
+          "Character",
+          "Mission",
+          "Chakra"
+        ]
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "Draw 5 cards. You may return all, reshuffle, and redraw 5 (once only).",
+        "startingHandSize": 5,
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": true,
+        "firstPlayerTokenName": "Edge",
+        "drawPerTurn": 2
+      },
+      "defaultNotes": "=== SETUP ===\n[ ] Each player: shuffle 3 Missions, pick 2\n[ ] Combine 4 Missions → Mission Deck\n[ ] First player gets Edge\n\n=== ROUND: _ / 4 ===\nChakra = 5 + 1 per character in play\n\nScoring:\n  D: printed + 1\n  C: printed + 2\n  B: printed + 3\n  A: printed + 4\n\nP1 Mission Points: ___\nP2 Mission Points: ___",
+      "tokens": [
+        {
+          "name": "Edge",
+          "image": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/images/edge.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Power_+1",
+          "image": "",
+          "isUnique": false,
+          "leavesAtEndOfTurn": true
+        }
+      ],
+      "countersStartingValues": [
+        "5",
+        "0"
+      ],
+      "hideFacedDownCards": true,
+      "sections": {
+        "customSections": [
+          "Mission",
+          "Mission_D",
+          "Mission_C",
+          "Mission_B",
+          "Mission_A",
+          "Field_D",
+          "Field_C",
+          "Field_B",
+          "Field_A",
+          "Mana"
+        ],
+        "layout": {
+          "direction": "column",
+          "content": [
+            {
+              "direction": "row",
+              "content": [
+                {
+                  "direction": "column",
+                  "content": [
+                    {
+                      "section": "Mission_D"
+                    },
+                    {
+                      "section": "Field_D"
+                    }
+                  ]
+                },
+                {
+                  "direction": "column",
+                  "content": [
+                    {
+                      "section": "Mission_C"
+                    },
+                    {
+                      "section": "Field_C"
+                    }
+                  ]
+                },
+                {
+                  "direction": "column",
+                  "content": [
+                    {
+                      "section": "Mission_B"
+                    },
+                    {
+                      "section": "Field_B"
+                    }
+                  ]
+                },
+                {
+                  "direction": "column",
+                  "content": [
+                    {
+                      "section": "Mission_A"
+                    },
+                    {
+                      "section": "Field_A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "direction": "row",
+              "style": {
+                "justify-content": "flex-start"
+              },
+              "content": [
+                {
+                  "section": "Mission",
+                  "style": {
+                    "width": "11vh"
+                  }
+                }
+              ]
+            },
+            {
+              "direction": "row",
+              "style": {
+                "justify-content": "flex-start"
+              },
+              "content": [
+                {
+                  "section": "Mana"
+                }
+              ]
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Mission",
+          "Chakra"
+        ],
+        "autoPlayFromHand": {
+          "Chakra": "Mana"
+        },
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Hand": {
+            "isDefaultSection": true,
+            "title": "Hand",
+            "isHidden": "opponent-only",
+            "height": "DEFAULT",
+            "alignment": "CENTER",
+            "autoPayFrom": true,
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "reverseZOrder": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Discard": {
+            "isDefaultSection": true,
+            "title": "Discard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Deck": {
+            "isDefaultSection": true,
+            "title": "Deck",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "title": "Stack",
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Pile",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Exile": {
+            "isDefaultSection": true,
+            "title": "Exile",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "ExileHidden": {
+            "isDefaultSection": true,
+            "title": "ExileHidden",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed hidden",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Sideboard": {
+            "isDefaultSection": true,
+            "title": "Sideboard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Mission": {
+            "title": "Mission",
+            "isHidden": "yes",
+            "height": "12.9",
+            "alignment": "DECK",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Mission Deck",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Mission_D": {
+            "title": "Mission_D",
+            "isHidden": "no",
+            "height": "12.9",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "D-Rank (+1pt)",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Mission_C": {
+            "title": "Mission_C",
+            "isHidden": "no",
+            "height": "12.9",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "C-Rank (+2pt)",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Mission_B": {
+            "title": "Mission_B",
+            "isHidden": "no",
+            "height": "12.9",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "B-Rank (+3pt)",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Mission_A": {
+            "title": "Mission_A",
+            "isHidden": "no",
+            "height": "12.9",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "A-Rank (+4pt)",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Field_D": {
+            "title": "Field_D",
+            "isHidden": "no",
+            "height": "12.9",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "D Characters",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Field_C": {
+            "title": "Field_C",
+            "isHidden": "no",
+            "height": "12.9",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "C Characters",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Field_B": {
+            "title": "Field_B",
+            "isHidden": "no",
+            "height": "12.9",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "B Characters",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Field_A": {
+            "title": "Field_A",
+            "isHidden": "no",
+            "height": "12.9",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "A Characters",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "no",
+            "height": "12.9",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "displayedTitle": "Chakra",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": true,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "autoPayFrom": true
+          }
+        }
+      }
+    }
+  }
+}

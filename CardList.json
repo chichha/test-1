@@ -2590,5 +2590,85 @@
     "name": "Chakra Training",
     "type": "Mission",
     "cost": ""
-  }
+  },
+  "SET1_Chakra_red": {
+    "id": "SET1_Chakra_red",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chakra Red",
+        "type": "Chackra",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/SET1_Chakra_red.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Chakra Red",
+    "type": "Chackra",
+    "cost": ""
+  },
+    "SET1_Chakra_blue": {
+    "id": "SET1_Chakra_blue",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chakra Blue",
+        "type": "Chackra",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/SET1_Chakra_blue.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Chakra Blue",
+    "type": "Chackra",
+    "cost": ""
+  },
+  "SET1_Chakra_green": {
+    "id": "SET1_Chakra_green",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chakra Green",
+        "type": "Chackra",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/SET1_Chakra_green.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Chakra Green",
+    "type": "Chackra",
+    "cost": ""
+  },
+  "SET1_Chakra_yellow": {
+    "id": "SET1_Chakra_yellow",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chakra Yellow",
+        "type": "Chackra",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/SET1_Chakra_yellow.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Chakra Yellow",
+    "type": "Chackra",
+    "cost": ""
+  },
+    "SET1_Chakra_brown": {
+      "id": "SET1_Chakra_brown",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Chakra Brown",
+          "type": "Chackra",
+          "cost": "",
+          "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/SET1_Chakra_brown.png",
+          "isHorizontal": true
+        }
+      },
+      "name": "Chakra Brown",
+      "type": "Chackra",
+      "cost": ""
+    }
 }
