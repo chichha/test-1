@@ -1,24 +1,31 @@
 {
-  "name": "",
-  "menuBackgroundImage": "",
+  "name": "Naruto Mythos TCG",
+  "menuBackgroundImage": "https://lirp.cdn-website.com/99e556bf/dms3rep/multi/opt/Naruto_Ninja_card_game_BL-66112785-1920w.png",
   "defaultRessources": {
     "backgrounds": [],
     "decksUrl": ""
   },
-  "customHelp": "",
-  "cardRotation": 45,
+  "customHelp": "Naruto Mythos TCG - Konoha Shido\n\n4 Rounds. Most Mission Points wins.\n\nSTART PHASE: Reveal next Mission. Gain 5 Chakra + 1 per character in play. Draw 2 cards.\n\nACTION PHASE: Edge player goes first. Alternate turns playing 1 character (face-up paying Chakra cost, face-down for 1 Chakra, or reveal hidden paying full cost). Pass = done for round. First to pass gets/keeps Edge.\n\nMISSION EVALUATION: Compare Power per mission (D→A). Highest Power wins. Ties go to Edge holder. Need at least 1 Power to win. Winner scores printed Mission Points + rank bonus (D+1, C+2, B+3, A+4).\n\nEND PHASE: Discard leftover Chakra and Power tokens. After Round 4, most Mission Points wins.",
+  "cardRotation": "0",
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/CardList.json",
-    "cardBack": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/images/back.webp?raw=true"
+    "dataUrl": "https://raw.githubusercontent.com/chichha/test-1/refs/heads/master/Game.json",
+    "cardBack": "https://github.com/chichha/test-1/blob/master/images/back.webp?raw=true"
   },
   "deckBuilding": {
     "mainFilters": [],
-    "formats": []
+    "formats": [
+      {
+        "name": "Standard",
+        "deckSize": 30,
+        "maxCopies": 2,
+        "info": "30 card minimum deck. Max 2 copies of the same card version. Unlimited cards with the same character name. Plus 3 Mission cards (separate)."
+      }
+    ]
   },
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "",
+        "info": "Draw 5 cards. You may return all cards to your deck, reshuffle, and redraw 5. You can only do this once.",
         "startingHandSize": "5",
         "drawNewHand": true,
         "putSelectionAtBottom": false,
@@ -27,25 +34,35 @@
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": true,
-        "firstPlayerTokenName": "",
-        "drawPerTurn": 1
+        "firstPlayerTokenName": "Edge",
+        "drawPerTurn": 2
       },
-      "defaultNotes": "",
+      "defaultNotes": "Round: 1/4\n\nSTART PHASE:\n1. Reveal next Mission card\n2. Each player gains 5 Chakra + 1 per character in play\n3. Each player draws 2 cards\n\nACTION PHASE:\nEdge player goes first. Alternate playing 1 character or pass.\nFace-up = pay Chakra cost. Face-down (hidden) = pay 1 Chakra.\nReveal hidden = pay full printed Chakra cost.\nFirst to pass gets/keeps Edge token.\n\nMISSION EVALUATION:\nCompare Power on each mission (D→A).\nHighest wins. Ties → Edge holder wins.\nNeed ≥1 Power to score.\nPoints = printed + rank bonus (D+1, C+2, B+3, A+4).\n\nEND PHASE:\nDiscard leftover Chakra & Power tokens.",
       "tokens": [
         {
-          "name": "",
+          "name": "Edge",
           "image": "",
           "isUnique": true,
           "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Power +1",
+          "image": "",
+          "isUnique": false,
+          "leavesAtEndOfTurn": true
         }
       ],
       "countersStartingValues": [
+        5,
         0
       ],
-      "hideFacedDownCards": false,
+      "hideFacedDownCards": true,
       "sections": {
         "customSections": [
-          ""
+          "Mission D",
+          "Mission C",
+          "Mission B",
+          "Mission A"
         ],
         "layout": {
           "direction": "row",
@@ -56,15 +73,63 @@
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "Mana": {
-            "title": "Mana",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "START",
+          "Mission D": {
+            "title": "Mission D",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
-            "displayedTitle": "Ressources",
+            "displayedTitle": "D-Rank Mission (+1pt)",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Mission C": {
+            "title": "Mission C",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "C-Rank Mission (+2pt)",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Mission B": {
+            "title": "Mission B",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "B-Rank Mission (+3pt)",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Mission A": {
+            "title": "Mission A",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "A-Rank Mission (+4pt)",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
