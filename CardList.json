@@ -2600,7 +2600,7 @@
         "type": "Chackra",
         "cost": "",
         "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/SET1_Chakra_red.png",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Chakra Red",
@@ -2616,7 +2616,7 @@
         "type": "Chackra",
         "cost": "",
         "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/SET1_Chakra_blue.png",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Chakra Blue",
@@ -2632,7 +2632,7 @@
         "type": "Chackra",
         "cost": "",
         "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/SET1_Chakra_green.png",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Chakra Green",
@@ -2648,7 +2648,7 @@
         "type": "Chackra",
         "cost": "",
         "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/SET1_Chakra_yellow.png",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Chakra Yellow",
@@ -2664,7 +2664,7 @@
           "type": "Chackra",
           "cost": "",
           "image": "https://raw.githubusercontent.com/chichha/test-1/master/images/SET1_Chakra_brown.png",
-          "isHorizontal": true
+          "isHorizontal": false
         }
       },
       "name": "Chakra Brown",
